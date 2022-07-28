@@ -278,11 +278,7 @@
 	branch = refs/heads/main
 	path = src/scripts
 	url = https://chromium.googlesource.com/chromiumos/platform/crosutils
-[submodule "chromiumos/platform/crosvm/src/platform/crosvm-upstream"]
-	branch = refs/heads/main
-	path = src/platform/crosvm-upstream
-	url = https://chromium.googlesource.com/chromiumos/platform/crosvm
-[submodule "chromiumos/platform/crosvm/src/platform/crosvm"]
+[submodule "chromiumos/platform/crosvm"]
 	branch = refs/heads/chromeos
 	path = src/platform/crosvm
 	url = https://chromium.googlesource.com/chromiumos/platform/crosvm
