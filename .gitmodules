@@ -402,6 +402,10 @@
 	branch = refs/heads/main
 	path = src/platform/minigbm
 	url = https://chromium.googlesource.com/chromiumos/platform/minigbm
+[submodule "chromiumos/platform/minijail"]
+	branch = refs/heads/main
+	path = src/platform/minijail
+	url = https://chromium.googlesource.com/chromiumos/platform/minijail
 [submodule "chromiumos/platform/moblab"]
 	branch = refs/heads/main
 	path = src/platform/moblab
