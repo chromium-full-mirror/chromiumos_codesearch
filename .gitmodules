@@ -655,7 +655,7 @@
 	path = src/third_party/intel-wifi-fw-dump
 	url = https://chromium.googlesource.com/chromiumos/third_party/intel-wifi-fw-dump
 [submodule "chromiumos/third_party/kernel/src/third_party/kernel/upstream"]
-	branch = refs/heads/merge/continuous/chromeos-kernelupstream-5.19-rc7
+	branch = refs/heads/merge/continuous/chromeos-kernelupstream-5.19
 	path = src/third_party/kernel/upstream
 	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
 [submodule "chromiumos/third_party/kernel/src/third_party/kernel/v4.14"]
@@ -962,10 +962,6 @@
 	branch = refs/heads/master
 	path = src/aosp/external/marisa-trie
 	url = https://android.googlesource.com/platform/external/marisa-trie
-[submodule "platform/external/minijail"]
-	branch = refs/heads/master
-	path = src/aosp/external/minijail
-	url = https://android.googlesource.com/platform/external/minijail
 [submodule "platform/external/perfetto"]
 	branch = refs/heads/master
 	path = src/aosp/external/perfetto
