@@ -659,7 +659,7 @@
 	path = src/third_party/kernel/kcam
 	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
 [submodule "chromiumos/third_party/kernel/src/third_party/kernel/upstream"]
-	branch = refs/heads/merge/continuous/chromeos-kernelupstream-6.0-rc2
+	branch = refs/heads/merge/continuous/chromeos-kernelupstream-6.0-rc3
 	path = src/third_party/kernel/upstream
 	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
 [submodule "chromiumos/third_party/kernel/src/third_party/kernel/v4.14"]
