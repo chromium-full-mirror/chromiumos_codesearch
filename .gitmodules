@@ -502,6 +502,10 @@
 	branch = refs/heads/main
 	path = src/repohooks
 	url = https://chromium.googlesource.com/chromiumos/repohooks
+[submodule "chromiumos/third_party/OP-TEE/optee_os"]
+	branch = refs/heads/master
+	path = src/third_party/optee_os
+	url = https://chromium.googlesource.com/chromiumos/third_party/OP-TEE/optee_os
 [submodule "chromiumos/third_party/Wi-FiTestSuite-Linux-DUT"]
 	branch = refs/heads/master
 	path = src/third_party/Wi-FiTestSuite-Linux-DUT
