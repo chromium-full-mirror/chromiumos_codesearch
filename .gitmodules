@@ -262,10 +262,6 @@
 	branch = refs/heads/main
 	path = src/platform/chromiumos-assets
 	url = https://chromium.googlesource.com/chromiumos/platform/chromiumos-assets
-[submodule "chromiumos/platform/cobble"]
-	branch = refs/heads/main
-	path = src/platform/cobble
-	url = https://chromium.googlesource.com/chromiumos/platform/cobble
 [submodule "chromiumos/platform/croscomp"]
 	branch = refs/heads/main
 	path = src/platform/croscomp
