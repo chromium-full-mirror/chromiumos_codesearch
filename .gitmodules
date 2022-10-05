@@ -714,6 +714,14 @@
 	branch = refs/heads/master
 	path = src/third_party/libcamera
 	url = https://chromium.googlesource.com/chromiumos/third_party/libcamera
+[submodule "chromiumos/third_party/libdrm/src/third_party/libdrm-debian-bullseye"]
+	branch = refs/heads/debian-bullseye
+	path = src/third_party/libdrm-debian-bullseye
+	url = https://chromium.googlesource.com/chromiumos/third_party/libdrm
+[submodule "chromiumos/third_party/libdrm/src/third_party/libdrm-debian-buster"]
+	branch = refs/heads/debian-buster
+	path = src/third_party/libdrm-debian-buster
+	url = https://chromium.googlesource.com/chromiumos/third_party/libdrm
 [submodule "chromiumos/third_party/libdrm/src/third_party/libdrm-debian"]
 	branch = refs/heads/debian
 	path = src/third_party/libdrm-debian
@@ -781,6 +789,14 @@
 [submodule "chromiumos/third_party/mesa/src/third_party/mesa-arcvm"]
 	branch = refs/heads/chromeos-arcvm
 	path = src/third_party/mesa-arcvm
+	url = https://chromium.googlesource.com/chromiumos/third_party/mesa
+[submodule "chromiumos/third_party/mesa/src/third_party/mesa-debian-bullseye"]
+	branch = refs/heads/debian-bullseye
+	path = src/third_party/mesa-debian-bullseye
+	url = https://chromium.googlesource.com/chromiumos/third_party/mesa
+[submodule "chromiumos/third_party/mesa/src/third_party/mesa-debian-buster"]
+	branch = refs/heads/debian-buster
+	path = src/third_party/mesa-debian-buster
 	url = https://chromium.googlesource.com/chromiumos/third_party/mesa
 [submodule "chromiumos/third_party/mesa/src/third_party/mesa-debian"]
 	branch = refs/heads/debian
