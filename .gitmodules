@@ -662,6 +662,10 @@
 	branch = refs/heads/kcam
 	path = src/third_party/kernel/kcam
 	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
+[submodule "chromiumos/third_party/kernel/src/third_party/kernel/pkvm-ia-5.19"]
+	branch = refs/heads/merge/pkvm-ia-5.19
+	path = src/third_party/kernel/pkvm-ia-5.19
+	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
 [submodule "chromiumos/third_party/kernel/src/third_party/kernel/upstream"]
 	branch = refs/heads/merge/continuous/chromeos-kernelupstream-6.0
 	path = src/third_party/kernel/upstream
