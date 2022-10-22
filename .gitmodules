@@ -651,7 +651,7 @@
 	path = src/third_party/huddly-updater
 	url = https://chromium.googlesource.com/chromiumos/third_party/huddly-updater
 [submodule "chromiumos/third_party/igt-gpu-tools"]
-	branch = refs/heads/master
+	branch = refs/heads/upstream/master
 	path = src/third_party/igt-gpu-tools
 	url = https://chromium.googlesource.com/chromiumos/third_party/igt-gpu-tools
 [submodule "chromiumos/third_party/intel-wifi-fw-dump"]
