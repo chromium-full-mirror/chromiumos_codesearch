@@ -974,6 +974,9 @@
 	branch = refs/heads/master
 	path = src/third_party/xfstests
 	url = https://chromium.googlesource.com/external/git.kernel.org/fs/xfs/xfstests-dev
+[submodule "external/github.com/include-what-you-use/include-what-you-use"]
+	path = src/third_party/include-what-you-use
+	url = https://chromium.googlesource.com/external/github.com/include-what-you-use/include-what-you-use
 [submodule "external/github.com/llvm/llvm-project"]
 	branch = refs/heads/main
 	path = src/third_party/llvm-project
