@@ -939,7 +939,7 @@
 	path = src/third_party/u-boot/files
 	url = https://chromium.googlesource.com/chromiumos/third_party/u-boot
 [submodule "chromiumos/third_party/upstart"]
-	branch = refs/heads/chromeos-1.2
+	branch = refs/heads/chromeos-1.13
 	path = src/third_party/upstart
 	url = https://chromium.googlesource.com/chromiumos/third_party/upstart
 [submodule "chromiumos/third_party/virglrenderer"]
