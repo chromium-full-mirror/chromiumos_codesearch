@@ -6,6 +6,14 @@
 	branch = refs/heads/master
 	path = src/third_party/modp_b64
 	url = https://chromium.googlesource.com/aosp/platform/external/modp_b64
+[submodule "aosp/platform/external/uwb/src/aosp/external/uwb/public/local"]
+	branch = refs/heads/main
+	path = src/aosp/external/uwb/public/local
+	url = https://chromium.googlesource.com/aosp/platform/external/uwb
+[submodule "aosp/platform/external/uwb/src/aosp/external/uwb/public/upstream"]
+	branch = refs/heads/upstream/master
+	path = src/aosp/external/uwb/public/upstream
+	url = https://chromium.googlesource.com/aosp/platform/external/uwb
 [submodule "aosp/platform/frameworks/ml"]
 	branch = refs/heads/main
 	path = src/aosp/frameworks/ml
