@@ -714,10 +714,6 @@
 	branch = refs/heads/chromeos-5.4
 	path = src/third_party/kernel/v5.4
 	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
-[submodule "chromiumos/third_party/kernel-next"]
-	branch = refs/heads/chromeos-next
-	path = src/third_party/kernel/next
-	url = https://chromium.googlesource.com/chromiumos/third_party/kernel-next
 [submodule "chromiumos/third_party/khronos"]
 	branch = refs/heads/master
 	path = src/third_party/khronos
