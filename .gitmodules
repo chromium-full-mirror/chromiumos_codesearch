@@ -430,10 +430,6 @@
 	branch = refs/heads/main
 	path = src/platform/rules_cros
 	url = https://chromium.googlesource.com/chromiumos/platform/rules_cros
-[submodule "chromiumos/platform/rules_cros_firmware"]
-	branch = refs/heads/main
-	path = src/platform/rules_cros_firmware
-	url = https://chromium.googlesource.com/chromiumos/platform/rules_cros_firmware
 [submodule "chromiumos/platform/satlab"]
 	branch = refs/heads/main
 	path = src/platform/satlab
