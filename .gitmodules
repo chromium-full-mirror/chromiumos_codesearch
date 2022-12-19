@@ -671,7 +671,7 @@
 	path = src/third_party/kernel/pkvm-ia-5.19
 	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
 [submodule "chromiumos/third_party/kernel/src/third_party/kernel/upstream"]
-	branch = refs/heads/merge/continuous/chromeos-kernelupstream-6.1-rc7
+	branch = refs/heads/merge/continuous/chromeos-kernelupstream-6.1
 	path = src/third_party/kernel/upstream
 	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
 [submodule "chromiumos/third_party/kernel/src/third_party/kernel/v4.14"]
