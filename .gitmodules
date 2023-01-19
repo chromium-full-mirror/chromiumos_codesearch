@@ -178,6 +178,10 @@
 	branch = refs/heads/main
 	path = infra/build/observability-cloud
 	url = https://chromium.googlesource.com/chromiumos/infra/build/observability-cloud
+[submodule "chromiumos/infra/build/prebuilts-cloud"]
+	branch = refs/heads/main
+	path = infra/build/prebuilts-cloud
+	url = https://chromium.googlesource.com/chromiumos/infra/build/prebuilts-cloud
 [submodule "chromiumos/infra/ci_results_archiver"]
 	branch = refs/heads/main
 	path = infra/ci_results_archiver
