@@ -751,11 +751,11 @@
 	path = src/third_party/libiio
 	url = https://chromium.googlesource.com/chromiumos/third_party/libiio
 [submodule "chromiumos/third_party/libmbim"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/third_party/libmbim
 	url = https://chromium.googlesource.com/chromiumos/third_party/libmbim
 [submodule "chromiumos/third_party/libqmi"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/third_party/libqmi
 	url = https://chromium.googlesource.com/chromiumos/third_party/libqmi
 [submodule "chromiumos/third_party/libqrtr"]
@@ -763,7 +763,7 @@
 	path = src/third_party/libqrtr
 	url = https://chromium.googlesource.com/chromiumos/third_party/libqrtr
 [submodule "chromiumos/third_party/libqrtr-glib"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/third_party/libqrtr-glib
 	url = https://chromium.googlesource.com/chromiumos/third_party/libqrtr-glib
 [submodule "chromiumos/third_party/libsigrok"]
@@ -847,7 +847,7 @@
 	path = src/third_party/mmc-utils
 	url = https://chromium.googlesource.com/chromiumos/third_party/mmc-utils
 [submodule "chromiumos/third_party/modemmanager-next"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/third_party/modemmanager-next
 	url = https://chromium.googlesource.com/chromiumos/third_party/modemmanager-next
 [submodule "chromiumos/third_party/novatek-tcon-fw-update-tool"]
