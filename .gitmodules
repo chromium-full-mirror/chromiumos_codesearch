@@ -882,10 +882,6 @@
 	branch = refs/heads/chromeos-2.3.75
 	path = src/third_party/portage_tool
 	url = https://chromium.googlesource.com/chromiumos/third_party/portage_tool
-[submodule "chromiumos/third_party/qemu"]
-	branch = refs/heads/chromeos-5.0-manatee
-	path = src/third_party/qemu
-	url = https://chromium.googlesource.com/chromiumos/third_party/qemu
 [submodule "chromiumos/third_party/rootdev"]
 	branch = refs/heads/main
 	path = src/third_party/rootdev
