@@ -647,7 +647,7 @@
 	path = src/third_party/wpa_supplicant-cros/current
 	url = https://chromium.googlesource.com/chromiumos/third_party/hostap
 [submodule "chromiumos/third_party/hostap/src/third_party/wpa_supplicant-cros/next"]
-	branch = refs/heads/wpa_supplicant-2.9.1
+	branch = refs/heads/wpa_supplicant-2.10.0
 	path = src/third_party/wpa_supplicant-cros/next
 	url = https://chromium.googlesource.com/chromiumos/third_party/hostap
 [submodule "chromiumos/third_party/hostap/src/third_party/wpa_supplicant"]
