@@ -986,7 +986,6 @@
 	path = src/third_party/llvm-project
 	url = https://chromium.googlesource.com/external/github.com/llvm/llvm-project
 [submodule "external/gitlab.com/libeigen/eigen"]
-	branch = refs/heads/cros/3.4.0
 	path = src/third_party/eigen3
 	url = https://chromium.googlesource.com/external/gitlab.com/libeigen/eigen
 [submodule "external/pigweed/pigweed/pigweed"]
