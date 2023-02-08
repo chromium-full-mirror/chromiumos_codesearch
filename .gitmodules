@@ -430,6 +430,10 @@
 	branch = refs/heads/main
 	path = src/platform/pinweaver
 	url = https://chromium.googlesource.com/chromiumos/platform/pinweaver
+[submodule "chromiumos/platform/redaction_tool"]
+	branch = refs/heads/main
+	path = src/platform/redaction_tool
+	url = https://chromium.googlesource.com/chromiumos/platform/redaction_tool
 [submodule "chromiumos/platform/rules_cros"]
 	branch = refs/heads/main
 	path = src/platform/rules_cros
