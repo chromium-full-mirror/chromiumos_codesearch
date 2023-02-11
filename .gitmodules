@@ -943,7 +943,7 @@
 	path = src/third_party/trousers
 	url = https://chromium.googlesource.com/chromiumos/third_party/trousers
 [submodule "chromiumos/third_party/u-boot"]
-	branch = refs/heads/chromeos-v2022.01
+	branch = refs/heads/chromeos-v2023.01
 	path = src/third_party/u-boot/files
 	url = https://chromium.googlesource.com/chromiumos/third_party/u-boot
 [submodule "chromiumos/third_party/upstart"]
