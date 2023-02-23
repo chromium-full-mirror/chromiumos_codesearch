@@ -766,18 +766,6 @@
 	branch = refs/heads/main
 	path = src/third_party/libqrtr-glib
 	url = https://chromium.googlesource.com/chromiumos/third_party/libqrtr-glib
-[submodule "chromiumos/third_party/libsigrok"]
-	branch = refs/heads/chromeos
-	path = src/third_party/libsigrok
-	url = https://chromium.googlesource.com/chromiumos/third_party/libsigrok
-[submodule "chromiumos/third_party/libsigrok-cli"]
-	branch = refs/heads/chromeos
-	path = src/third_party/sigrok-cli
-	url = https://chromium.googlesource.com/chromiumos/third_party/libsigrok-cli
-[submodule "chromiumos/third_party/libsigrokdecode"]
-	branch = refs/heads/chromeos
-	path = src/third_party/libsigrokdecode
-	url = https://chromium.googlesource.com/chromiumos/third_party/libsigrokdecode
 [submodule "chromiumos/third_party/libtextclassifier"]
 	branch = refs/heads/master
 	path = src/third_party/libtextclassifier
