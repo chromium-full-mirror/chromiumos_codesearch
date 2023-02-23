@@ -966,6 +966,10 @@
 	branch = refs/heads/master
 	path = src/third_party/xfstests
 	url = https://chromium.googlesource.com/external/git.kernel.org/fs/xfs/xfstests-dev
+[submodule "external/github.com/google/googletest"]
+	ref = refs/tags/v1.10.x
+	path = src/third_party/googletest
+	url = https://chromium.googlesource.com/external/github.com/google/googletest
 [submodule "external/github.com/include-what-you-use/include-what-you-use"]
 	path = src/third_party/include-what-you-use
 	url = https://chromium.googlesource.com/external/github.com/include-what-you-use/include-what-you-use
