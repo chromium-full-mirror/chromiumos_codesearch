@@ -394,6 +394,10 @@
 	branch = refs/heads/main
 	path = src/platform/libevdev
 	url = https://chromium.googlesource.com/chromiumos/platform/libevdev
+[submodule "chromiumos/platform/libevstate"]
+	branch = refs/heads/main
+	path = src/platform/libevstate
+	url = https://chromium.googlesource.com/chromiumos/platform/libevstate
 [submodule "chromiumos/platform/lithium"]
 	branch = refs/heads/main
 	path = src/platform/lithium
