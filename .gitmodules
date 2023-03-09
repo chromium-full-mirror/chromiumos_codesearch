@@ -89,10 +89,6 @@
 [submodule "breakpad/breakpad"]
 	path = src/third_party/breakpad
 	url = https://chromium.googlesource.com/breakpad/breakpad
-[submodule "chromium/src/buildtools"]
-	branch = refs/heads/main
-	path = src/chromium/src/buildtools
-	url = https://chromium.googlesource.com/chromium/src/buildtools
 [submodule "chromium/src/components/policy"]
 	branch = refs/heads/main
 	path = src/chromium/src/components/policy
@@ -230,6 +226,10 @@
 	branch = refs/heads/main
 	path = src/third_party/portage-stable
 	url = https://chromium.googlesource.com/chromiumos/overlays/portage-stable
+[submodule "chromiumos/overlays/toolchains"]
+	branch = refs/heads/main
+	path = src/third_party/toolchains-overlay
+	url = https://chromium.googlesource.com/chromiumos/overlays/toolchains
 [submodule "chromiumos/platform/assets"]
 	branch = refs/heads/main
 	path = src/platform/assets
@@ -981,9 +981,15 @@
 	branch = refs/heads/main
 	path = src/third_party/llvm-project
 	url = https://chromium.googlesource.com/external/github.com/llvm/llvm-project
+[submodule "external/github.com/rostedt/ureadahead"]
+	path = src/third_party/ureadahead
+	url = https://chromium.googlesource.com/external/github.com/rostedt/ureadahead
 [submodule "external/gitlab.com/libeigen/eigen"]
 	path = src/third_party/eigen3
 	url = https://chromium.googlesource.com/external/gitlab.com/libeigen/eigen
+[submodule "external/gob/boringssl/boringssl"]
+	path = src/third_party/boringssl
+	url = https://chromium.googlesource.com/external/gob/boringssl/boringssl
 [submodule "external/pigweed/pigweed/pigweed"]
 	branch = refs/heads/upstream/main
 	path = src/third_party/pigweed
