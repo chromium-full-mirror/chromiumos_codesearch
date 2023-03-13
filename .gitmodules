@@ -242,6 +242,10 @@
 	branch = refs/heads/main
 	path = src/platform/bisect-kit
 	url = https://chromium.googlesource.com/chromiumos/platform/bisect-kit
+[submodule "chromiumos/platform/bluetooth"]
+	branch = refs/heads/main
+	path = src/platform/bluetooth
+	url = https://chromium.googlesource.com/chromiumos/platform/bluetooth
 [submodule "chromiumos/platform/bmpblk"]
 	branch = refs/heads/main
 	path = src/platform/bmpblk
