@@ -1014,10 +1014,18 @@
 	branch = refs/heads/master
 	path = src/aosp/external/puffin
 	url = https://android.googlesource.com/platform/external/puffin
-[submodule "platform/system/keymaster"]
+[submodule "platform/system/keymaster/src/aosp/system/keymaster"]
 	branch = refs/heads/pie-release
 	path = src/aosp/system/keymaster
 	url = https://android.googlesource.com/platform/system/keymaster
+[submodule "platform/system/keymaster/src/aosp/system/keymint"]
+	branch = refs/heads/android13-platform-release
+	path = src/aosp/system/keymint
+	url = https://android.googlesource.com/platform/system/keymaster
+[submodule "platform/system/libcppbor"]
+	branch = refs/heads/master
+	path = src/aosp/system/libcppbor
+	url = https://android.googlesource.com/platform/system/libcppbor
 [submodule "website"]
 	branch = refs/heads/main
 	path = website
