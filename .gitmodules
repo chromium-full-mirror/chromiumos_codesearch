@@ -334,10 +334,6 @@
 	branch = refs/heads/firmware-fpmcu-dartmonkey-release
 	path = src/platform/release-firmware/fpmcu-nocturne
 	url = https://chromium.googlesource.com/chromiumos/platform/ec
-[submodule "chromiumos/platform/experimental"]
-	branch = refs/heads/main
-	path = src/platform/experimental
-	url = https://chromium.googlesource.com/chromiumos/platform/experimental
 [submodule "chromiumos/platform/factory"]
 	branch = refs/heads/main
 	path = src/platform/factory
