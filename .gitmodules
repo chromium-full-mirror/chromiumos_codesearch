@@ -278,10 +278,6 @@
 	branch = refs/heads/main
 	path = src/platform/crdyboot
 	url = https://chromium.googlesource.com/chromiumos/platform/crdyboot
-[submodule "chromiumos/platform/croscomp"]
-	branch = refs/heads/main
-	path = src/platform/croscomp
-	url = https://chromium.googlesource.com/chromiumos/platform/croscomp
 [submodule "chromiumos/platform/crostestutils"]
 	branch = refs/heads/main
 	path = src/platform/crostestutils
