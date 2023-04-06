@@ -989,6 +989,10 @@
 	branch = refs/heads/upstream/main
 	path = src/third_party/pigweed
 	url = https://chromium.googlesource.com/external/pigweed/pigweed/pigweed
+[submodule "infra/cop"]
+	branch = refs/heads/main
+	path = infra/cop
+	url = https://chromium.googlesource.com/infra/cop
 [submodule "platform/external/bsdiff"]
 	branch = refs/heads/master
 	path = src/aosp/external/bsdiff
