@@ -202,6 +202,10 @@
 	branch = refs/heads/main
 	path = infra/suite_scheduler
 	url = https://chromium.googlesource.com/chromiumos/infra/suite_scheduler
+[submodule "chromiumos/infra/test-scheduling/scheduke"]
+	branch = refs/heads/main
+	path = infra/test-scheduling/scheduke
+	url = https://chromium.googlesource.com/chromiumos/infra/test-scheduling/scheduke
 [submodule "chromiumos/infra_virtualenv"]
 	branch = refs/heads/main
 	path = infra_virtualenv
