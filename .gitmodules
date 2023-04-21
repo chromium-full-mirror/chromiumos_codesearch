@@ -526,6 +526,10 @@
 	branch = refs/heads/main
 	path = src/third_party/adhd
 	url = https://chromium.googlesource.com/chromiumos/third_party/adhd
+[submodule "chromiumos/third_party/ap_wpsr"]
+	branch = refs/heads/main
+	path = src/third_party/ap_wpsr
+	url = https://chromium.googlesource.com/chromiumos/third_party/ap_wpsr
 [submodule "chromiumos/third_party/apitrace/src/third_party/apitrace-debian"]
 	branch = refs/heads/debian
 	path = src/third_party/apitrace-debian
@@ -931,7 +935,7 @@
 	path = src/third_party/trousers
 	url = https://chromium.googlesource.com/chromiumos/third_party/trousers
 [submodule "chromiumos/third_party/u-boot"]
-	branch = refs/heads/chromeos-v2023.01
+	branch = refs/heads/chromeos-v2023.04
 	path = src/third_party/u-boot/files
 	url = https://chromium.googlesource.com/chromiumos/third_party/u-boot
 [submodule "chromiumos/third_party/upstart"]
