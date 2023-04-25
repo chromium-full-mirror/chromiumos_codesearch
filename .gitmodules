@@ -123,6 +123,10 @@
 [submodule "chromium/tools/depot_tools"]
 	path = src/chromium/depot_tools
 	url = https://chromium.googlesource.com/chromium/tools/depot_tools
+[submodule "chromiumos/bazel"]
+	branch = refs/heads/main
+	path = src/bazel
+	url = https://chromium.googlesource.com/chromiumos/bazel
 [submodule "chromiumos/chromite/chromite"]
 	branch = refs/heads/main
 	path = chromite
