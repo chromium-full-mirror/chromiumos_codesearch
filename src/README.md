@@ -1,1 +1,0 @@
-bazel/workspace_root/README.md
