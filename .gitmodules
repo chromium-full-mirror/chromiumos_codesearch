@@ -346,6 +346,10 @@
 	branch = refs/heads/main
 	path = src/platform/factory_installer
 	url = https://chromium.googlesource.com/chromiumos/platform/factory_installer
+[submodule "chromiumos/platform/feature-management"]
+	branch = refs/heads/main
+	path = src/platform/feature-management
+	url = https://chromium.googlesource.com/chromiumos/platform/feature-management
 [submodule "chromiumos/platform/firmware"]
 	branch = refs/heads/main
 	path = src/platform/firmware
