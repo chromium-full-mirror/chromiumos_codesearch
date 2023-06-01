@@ -914,10 +914,6 @@
 	branch = refs/heads/chromeos
 	path = src/third_party/svunit
 	url = https://chromium.googlesource.com/chromiumos/third_party/svunit
-[submodule "chromiumos/third_party/sysbios"]
-	branch = refs/heads/master
-	path = src/third_party/sysbios
-	url = https://chromium.googlesource.com/chromiumos/third_party/sysbios
 [submodule "chromiumos/third_party/systemd"]
 	branch = refs/heads/chromeos-v247
 	path = src/third_party/systemd
