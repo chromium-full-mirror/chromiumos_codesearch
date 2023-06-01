@@ -898,10 +898,6 @@
 	branch = refs/heads/main
 	path = src/third_party/rust_crates
 	url = https://chromium.googlesource.com/chromiumos/third_party/rust_crates
-[submodule "chromiumos/third_party/seabios"]
-	branch = refs/heads/chromeos-2014.11.03
-	path = src/third_party/seabios
-	url = https://chromium.googlesource.com/chromiumos/third_party/seabios
 [submodule "chromiumos/third_party/shellcheck"]
 	branch = refs/heads/chromeos-0.7
 	path = src/third_party/shellcheck
