@@ -318,6 +318,10 @@
 	branch = refs/heads/main
 	path = src/platform/ec
 	url = https://chromium.googlesource.com/chromiumos/platform/ec
+[submodule "chromiumos/platform/ec/src/platform/gsc-utils"]
+	branch = refs/heads/gsc_utils
+	path = src/platform/gsc-utils
+	url = https://chromium.googlesource.com/chromiumos/platform/ec
 [submodule "chromiumos/platform/ec/src/platform/ish"]
 	branch = refs/heads/ish
 	path = src/platform/ish
