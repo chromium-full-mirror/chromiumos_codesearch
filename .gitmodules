@@ -450,6 +450,10 @@
 	branch = refs/heads/main
 	path = src/platform/satlab
 	url = https://chromium.googlesource.com/chromiumos/platform/satlab
+[submodule "chromiumos/platform/spdm"]
+	branch = refs/heads/main
+	path = src/platform/spdm
+	url = https://chromium.googlesource.com/chromiumos/platform/spdm
 [submodule "chromiumos/platform/tast"]
 	branch = refs/heads/main
 	path = src/platform/tast
