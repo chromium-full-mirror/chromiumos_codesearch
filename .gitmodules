@@ -691,7 +691,7 @@
 	path = src/third_party/intel-wifi-fw-dump
 	url = https://chromium.googlesource.com/chromiumos/third_party/intel-wifi-fw-dump
 [submodule "chromiumos/third_party/kernel/src/third_party/kernel/kcam"]
-	branch = refs/heads/kcam
+	branch = refs/heads/kcam-6.1
 	path = src/third_party/kernel/kcam
 	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
 [submodule "chromiumos/third_party/kernel/src/third_party/kernel/pkvm-ia-5.19"]
