@@ -582,10 +582,6 @@
 	branch = refs/heads/upstream/master
 	path = src/third_party/bluez/upstream
 	url = https://chromium.googlesource.com/chromiumos/third_party/bluez
-[submodule "chromiumos/third_party/bootstub"]
-	branch = refs/heads/main
-	path = src/third_party/bootstub
-	url = https://chromium.googlesource.com/chromiumos/third_party/bootstub
 [submodule "chromiumos/third_party/cbootimage"]
 	branch = refs/heads/master
 	path = src/third_party/cbootimage
