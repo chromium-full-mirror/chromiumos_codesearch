@@ -834,6 +834,10 @@
 	branch = refs/heads/chromeos-iris
 	path = src/third_party/mesa-iris
 	url = https://chromium.googlesource.com/chromiumos/third_party/mesa
+[submodule "chromiumos/third_party/mesa/src/third_party/mesa-radv"]
+	branch = refs/heads/chromeos-radv
+	path = src/third_party/mesa-radv
+	url = https://chromium.googlesource.com/chromiumos/third_party/mesa
 [submodule "chromiumos/third_party/mesa/src/third_party/mesa-reven"]
 	branch = refs/heads/chromeos-reven
 	path = src/third_party/mesa-reven
