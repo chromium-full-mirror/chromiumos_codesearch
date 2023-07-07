@@ -35,7 +35,7 @@
 	path = src/aosp/packages/modules/Bluetooth/local
 	url = https://chromium.googlesource.com/aosp/platform/packages/modules/Bluetooth
 [submodule "aosp/platform/packages/modules/Bluetooth/src/aosp/packages/modules/Bluetooth/upstream"]
-	branch = refs/heads/upstream/master
+	branch = refs/heads/upstream/main
 	path = src/aosp/packages/modules/Bluetooth/upstream
 	url = https://chromium.googlesource.com/aosp/platform/packages/modules/Bluetooth
 [submodule "aosp/platform/system/core/base"]
