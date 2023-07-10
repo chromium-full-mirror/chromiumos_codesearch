@@ -182,10 +182,6 @@
 	branch = refs/heads/main
 	path = infra/build/prebuilts-cloud
 	url = https://chromium.googlesource.com/chromiumos/infra/build/prebuilts-cloud
-[submodule "chromiumos/infra/ci_results_archiver"]
-	branch = refs/heads/main
-	path = infra/ci_results_archiver
-	url = https://chromium.googlesource.com/chromiumos/infra/ci_results_archiver
 [submodule "chromiumos/infra/go"]
 	branch = refs/heads/main
 	path = infra/go
