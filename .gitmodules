@@ -977,6 +977,9 @@
 [submodule "external/github.com/google/googletest"]
 	path = src/third_party/googletest
 	url = https://chromium.googlesource.com/external/github.com/google/googletest
+[submodule "external/github.com/google/gtest-parallel"]
+	path = src/third_party/gtest-parallel
+	url = https://chromium.googlesource.com/external/github.com/google/gtest-parallel
 [submodule "external/github.com/include-what-you-use/include-what-you-use"]
 	path = src/third_party/include-what-you-use
 	url = https://chromium.googlesource.com/external/github.com/include-what-you-use/include-what-you-use
