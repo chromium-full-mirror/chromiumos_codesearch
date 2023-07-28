@@ -30,6 +30,10 @@
 	branch = refs/heads/master
 	path = src/aosp/hardware/interfaces/neuralnetworks
 	url = https://chromium.googlesource.com/aosp/platform/hardware/interfaces/neuralnetworks
+[submodule "aosp/platform/hardware/nxp/uwb"]
+	branch = refs/heads/main
+	path = src/aosp/hardware/nxp/uwb
+	url = https://chromium.googlesource.com/aosp/platform/hardware/nxp/uwb
 [submodule "aosp/platform/packages/modules/Bluetooth/src/aosp/packages/modules/Bluetooth/local"]
 	branch = refs/heads/main
 	path = src/aosp/packages/modules/Bluetooth/local
