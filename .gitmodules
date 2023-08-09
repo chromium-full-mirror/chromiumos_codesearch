@@ -943,7 +943,7 @@
 	path = src/third_party/upstart
 	url = https://chromium.googlesource.com/chromiumos/third_party/upstart
 [submodule "chromiumos/third_party/virglrenderer"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/third_party/virglrenderer
 	url = https://chromium.googlesource.com/chromiumos/third_party/virglrenderer
 [submodule "chromiumos/third_party/virtual-usb-printer"]
