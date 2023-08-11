@@ -962,6 +962,10 @@
 	branch = refs/heads/chromeos-main
 	path = src/third_party/zephyr/cmsis
 	url = https://chromium.googlesource.com/chromiumos/third_party/zephyr/cmsis
+[submodule "chromiumos/third_party/zephyr/hal_intel"]
+	branch = refs/heads/main
+	path = src/third_party/zephyr/hal_intel_public
+	url = https://chromium.googlesource.com/chromiumos/third_party/zephyr/hal_intel
 [submodule "chromiumos/third_party/zephyr/hal_stm32"]
 	branch = refs/heads/chromeos-main
 	path = src/third_party/zephyr/hal_stm32
