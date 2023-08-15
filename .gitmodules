@@ -7,7 +7,6 @@
 	path = src/third_party/modp_b64
 	url = https://chromium.googlesource.com/aosp/platform/external/modp_b64
 [submodule "aosp/platform/external/uwb/src/aosp/external/uwb/local"]
-	branch = refs/heads/main
 	path = src/aosp/external/uwb/local
 	url = https://chromium.googlesource.com/aosp/platform/external/uwb
 [submodule "aosp/platform/external/uwb/src/aosp/external/uwb/upstream"]
