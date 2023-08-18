@@ -973,10 +973,6 @@
 	branch = refs/heads/main
 	path = src/third_party/zephyr/nanopb
 	url = https://chromium.googlesource.com/chromiumos/third_party/zephyr/nanopb
-[submodule "external/git.kernel.org/fs/xfs/xfstests-dev"]
-	branch = refs/heads/master
-	path = src/third_party/xfstests
-	url = https://chromium.googlesource.com/external/git.kernel.org/fs/xfs/xfstests-dev
 [submodule "external/github.com/google/googletest"]
 	path = src/third_party/googletest
 	url = https://chromium.googlesource.com/external/github.com/google/googletest
