@@ -653,6 +653,10 @@
 	branch = refs/heads/fwupd-1.9.3
 	path = src/third_party/fwupd
 	url = https://chromium.googlesource.com/chromiumos/third_party/fwupd
+[submodule "chromiumos/third_party/gmmlib"]
+	branch = refs/heads/chromeos
+	path = src/third_party/gmmlib
+	url = https://chromium.googlesource.com/chromiumos/third_party/gmmlib
 [submodule "chromiumos/third_party/hdctools"]
 	branch = refs/heads/main
 	path = src/third_party/hdctools
@@ -785,6 +789,18 @@
 	branch = refs/heads/master
 	path = src/third_party/libv4lplugins
 	url = https://chromium.googlesource.com/chromiumos/third_party/libv4lplugins
+[submodule "chromiumos/third_party/libva"]
+	branch = refs/heads/chromeos
+	path = src/third_party/libva
+	url = https://chromium.googlesource.com/chromiumos/third_party/libva
+[submodule "chromiumos/third_party/libva-intel-driver"]
+	branch = refs/heads/chromeos
+	path = src/third_party/libva-intel-driver
+	url = https://chromium.googlesource.com/chromiumos/third_party/libva-intel-driver
+[submodule "chromiumos/third_party/libva-intel-media-driver"]
+	branch = refs/heads/chromeos
+	path = src/third_party/libva-intel-media-driver
+	url = https://chromium.googlesource.com/chromiumos/third_party/libva-intel-media-driver
 [submodule "chromiumos/third_party/linux-firmware"]
 	branch = refs/heads/master
 	path = src/third_party/linux-firmware
