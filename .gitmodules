@@ -801,6 +801,10 @@
 	branch = refs/heads/chromeos
 	path = src/third_party/libva-intel-media-driver
 	url = https://chromium.googlesource.com/chromiumos/third_party/libva-intel-media-driver
+[submodule "chromiumos/third_party/libva-utils"]
+	branch = refs/heads/chromeos
+	path = src/third_party/libva-utils
+	url = https://chromium.googlesource.com/chromiumos/third_party/libva-utils
 [submodule "chromiumos/third_party/linux-firmware"]
 	branch = refs/heads/master
 	path = src/third_party/linux-firmware
