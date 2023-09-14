@@ -621,6 +621,18 @@
 	branch = refs/heads/pco
 	path = src/third_party/amd-firmware/binarypi/picasso-edk2
 	url = https://chromium.googlesource.com/chromiumos/third_party/edk2
+[submodule "chromiumos/third_party/edk2/src/third_party/amd-fsp/cezanne-edk2"]
+	branch = refs/heads/chromeos-czn
+	path = src/third_party/amd-fsp/cezanne-edk2
+	url = https://chromium.googlesource.com/chromiumos/third_party/edk2
+[submodule "chromiumos/third_party/edk2/src/third_party/amd-fsp/mendocino-edk2"]
+	branch = refs/heads/chromeos-mdn
+	path = src/third_party/amd-fsp/mendocino-edk2
+	url = https://chromium.googlesource.com/chromiumos/third_party/edk2
+[submodule "chromiumos/third_party/edk2/src/third_party/amd-fsp/phoenix-edk2"]
+	branch = refs/heads/chromeos-phx
+	path = src/third_party/amd-fsp/phoenix-edk2
+	url = https://chromium.googlesource.com/chromiumos/third_party/edk2
 [submodule "chromiumos/third_party/edk2/src/third_party/edk2"]
 	branch = refs/heads/chromeos-2017.08
 	path = src/third_party/edk2
@@ -654,7 +666,7 @@
 	path = src/third_party/flashrom
 	url = https://chromium.googlesource.com/chromiumos/third_party/flashrom
 [submodule "chromiumos/third_party/fwupd"]
-	branch = refs/heads/fwupd-1.9.3
+	branch = refs/heads/fwupd-1.9.5
 	path = src/third_party/fwupd
 	url = https://chromium.googlesource.com/chromiumos/third_party/fwupd
 [submodule "chromiumos/third_party/gmmlib"]
