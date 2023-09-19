@@ -1009,6 +1009,10 @@
 	branch = refs/heads/main
 	path = src/third_party/zephyr/nanopb
 	url = https://chromium.googlesource.com/chromiumos/third_party/zephyr/nanopb
+[submodule "chromiumos/third_party/zephyr/picolibc"]
+	branch = refs/heads/main
+	path = src/third_party/zephyr/picolibc
+	url = https://chromium.googlesource.com/chromiumos/third_party/zephyr/picolibc
 [submodule "external/github.com/google/googletest"]
 	path = src/third_party/googletest
 	url = https://chromium.googlesource.com/external/github.com/google/googletest
