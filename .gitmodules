@@ -634,7 +634,7 @@
 	path = src/third_party/amd-fsp/phoenix-edk2
 	url = https://chromium.googlesource.com/chromiumos/third_party/edk2
 [submodule "chromiumos/third_party/edk2/src/third_party/edk2"]
-	branch = refs/heads/chromeos-2017.08
+	branch = refs/heads/chromeos-v202308
 	path = src/third_party/edk2
 	url = https://chromium.googlesource.com/chromiumos/third_party/edk2
 [submodule "chromiumos/third_party/edk2/src/third_party/fsp/cml/edk2/branch1"]
