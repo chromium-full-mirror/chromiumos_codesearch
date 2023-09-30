@@ -385,6 +385,10 @@
 	branch = refs/heads/main
 	path = src/platform/hps-firmware-images
 	url = https://chromium.googlesource.com/chromiumos/platform/hps-firmware-images
+[submodule "chromiumos/platform/human_motion_robot"]
+	branch = refs/heads/main
+	path = src/platform/human_motion_robot
+	url = https://chromium.googlesource.com/chromiumos/platform/human_motion_robot
 [submodule "chromiumos/platform/initramfs"]
 	branch = refs/heads/main
 	path = src/platform/initramfs
