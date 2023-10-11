@@ -594,11 +594,9 @@
 	path = src/third_party/chre
 	url = https://chromium.googlesource.com/chromiumos/third_party/chre
 [submodule "chromiumos/third_party/clspv"]
-	branch = refs/heads/upstream/main
 	path = src/third_party/clspv
 	url = https://chromium.googlesource.com/chromiumos/third_party/clspv
 [submodule "chromiumos/third_party/clvk"]
-	branch = refs/heads/upstream/main
 	path = src/third_party/clvk
 	url = https://chromium.googlesource.com/chromiumos/third_party/clvk
 [submodule "chromiumos/third_party/coreboot"]
