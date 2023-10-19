@@ -923,6 +923,10 @@
 	branch = refs/heads/main
 	path = src/third_party/rootdev
 	url = https://chromium.googlesource.com/chromiumos/third_party/rootdev
+[submodule "chromiumos/third_party/rules_rust"]
+	branch = refs/heads/main
+	path = bazel_deps/rules_rust
+	url = https://chromium.googlesource.com/chromiumos/third_party/rules_rust
 [submodule "chromiumos/third_party/rust-vmm/vhost"]
 	branch = refs/heads/main
 	path = src/third_party/rust-vmm/vhost
@@ -1011,6 +1015,10 @@
 	branch = refs/heads/main
 	path = src/third_party/zephyr/picolibc
 	url = https://chromium.googlesource.com/chromiumos/third_party/zephyr/picolibc
+[submodule "external/github.com/bazelbuild/bazel-central-registry"]
+	branch = refs/heads/upstream/main
+	path = bazel_deps/bazel-central-registry
+	url = https://chromium.googlesource.com/external/github.com/bazelbuild/bazel-central-registry
 [submodule "external/github.com/google/googletest"]
 	path = src/third_party/googletest
 	url = https://chromium.googlesource.com/external/github.com/google/googletest
