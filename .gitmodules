@@ -285,6 +285,10 @@
 	branch = refs/heads/main
 	path = src/platform/crdyboot
 	url = https://chromium.googlesource.com/chromiumos/platform/crdyboot
+[submodule "chromiumos/platform/crospts"]
+	branch = refs/heads/main
+	path = src/platform/crospts
+	url = https://chromium.googlesource.com/chromiumos/platform/crospts
 [submodule "chromiumos/platform/crostestutils"]
 	branch = refs/heads/main
 	path = src/platform/crostestutils
