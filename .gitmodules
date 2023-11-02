@@ -337,6 +337,10 @@
 	branch = refs/heads/firmware-fpmcu-dartmonkey-release
 	path = src/platform/release-firmware/fpmcu-dartmonkey
 	url = https://chromium.googlesource.com/chromiumos/platform/ec
+[submodule "chromiumos/platform/ec/src/platform/release-firmware/fpmcu-helipilot"]
+	branch = refs/heads/firmware-fpmcu-helipilot-release
+	path = src/platform/release-firmware/fpmcu-helipilot
+	url = https://chromium.googlesource.com/chromiumos/platform/ec
 [submodule "chromiumos/platform/ec/src/platform/release-firmware/fpmcu-nami"]
 	branch = refs/heads/firmware-fpmcu-dartmonkey-release
 	path = src/platform/release-firmware/fpmcu-nami
