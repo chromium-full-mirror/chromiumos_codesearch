@@ -927,6 +927,10 @@
 	branch = refs/heads/chromeos-2.3.75
 	path = src/third_party/portage_tool
 	url = https://chromium.googlesource.com/chromiumos/third_party/portage_tool
+[submodule "chromiumos/third_party/pyelftools"]
+	branch = refs/heads/chromeos-0.22
+	path = src/third_party/pyelftools
+	url = https://chromium.googlesource.com/chromiumos/third_party/pyelftools
 [submodule "chromiumos/third_party/rootdev"]
 	branch = refs/heads/main
 	path = src/third_party/rootdev
