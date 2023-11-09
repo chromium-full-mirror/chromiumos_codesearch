@@ -81,10 +81,6 @@
 	branch = refs/heads/master
 	path = src/aosp/system/logging
 	url = https://chromium.googlesource.com/aosp/platform/system/logging
-[submodule "aosp/platform/system/update_engine"]
-	branch = refs/heads/master
-	path = src/aosp/system/update_engine
-	url = https://chromium.googlesource.com/aosp/platform/system/update_engine
 [submodule "apps/libapps"]
 	branch = refs/heads/main
 	path = src/third_party/libapps
