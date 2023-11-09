@@ -81,10 +81,6 @@
 	branch = refs/heads/master
 	path = src/aosp/system/logging
 	url = https://chromium.googlesource.com/aosp/platform/system/logging
-[submodule "aosp/platform/system/update_engine"]
-	branch = refs/heads/master
-	path = src/aosp/system/update_engine
-	url = https://chromium.googlesource.com/aosp/platform/system/update_engine
 [submodule "apps/libapps"]
 	branch = refs/heads/main
 	path = src/third_party/libapps
@@ -336,6 +332,10 @@
 [submodule "chromiumos/platform/ec/src/platform/release-firmware/fpmcu-dartmonkey"]
 	branch = refs/heads/firmware-fpmcu-dartmonkey-release
 	path = src/platform/release-firmware/fpmcu-dartmonkey
+	url = https://chromium.googlesource.com/chromiumos/platform/ec
+[submodule "chromiumos/platform/ec/src/platform/release-firmware/fpmcu-helipilot"]
+	branch = refs/heads/firmware-fpmcu-helipilot-release
+	path = src/platform/release-firmware/fpmcu-helipilot
 	url = https://chromium.googlesource.com/chromiumos/platform/ec
 [submodule "chromiumos/platform/ec/src/platform/release-firmware/fpmcu-nami"]
 	branch = refs/heads/firmware-fpmcu-dartmonkey-release
@@ -712,7 +712,7 @@
 	path = src/third_party/kernel/kcam
 	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
 [submodule "chromiumos/third_party/kernel/src/third_party/kernel/upstream"]
-	branch = refs/heads/merge/continuous/chromeos-kernelupstream-6.6-rc4
+	branch = refs/heads/merge/continuous/chromeos-kernelupstream-6.6-rc6
 	path = src/third_party/kernel/upstream
 	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
 [submodule "chromiumos/third_party/kernel/src/third_party/kernel/v4.14"]
@@ -923,6 +923,10 @@
 	branch = refs/heads/chromeos-2.3.75
 	path = src/third_party/portage_tool
 	url = https://chromium.googlesource.com/chromiumos/third_party/portage_tool
+[submodule "chromiumos/third_party/pyelftools"]
+	branch = refs/heads/chromeos-0.22
+	path = src/third_party/pyelftools
+	url = https://chromium.googlesource.com/chromiumos/third_party/pyelftools
 [submodule "chromiumos/third_party/rootdev"]
 	branch = refs/heads/main
 	path = src/third_party/rootdev
