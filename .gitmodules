@@ -608,7 +608,7 @@
 	path = src/third_party/clvk
 	url = https://chromium.googlesource.com/chromiumos/third_party/clvk
 [submodule "chromiumos/third_party/coreboot"]
-	branch = refs/heads/chromeos-2016.05
+	branch = refs/heads/main
 	path = src/third_party/coreboot
 	url = https://chromium.googlesource.com/chromiumos/third_party/coreboot
 [submodule "chromiumos/third_party/cros-adapta"]
