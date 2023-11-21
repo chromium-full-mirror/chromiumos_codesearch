@@ -597,10 +597,6 @@
 	branch = refs/heads/master
 	path = src/third_party/cbootimage
 	url = https://chromium.googlesource.com/chromiumos/third_party/cbootimage
-[submodule "chromiumos/third_party/chre"]
-	branch = refs/heads/upstream/main
-	path = src/third_party/chre
-	url = https://chromium.googlesource.com/chromiumos/third_party/chre
 [submodule "chromiumos/third_party/clspv"]
 	path = src/third_party/clspv
 	url = https://chromium.googlesource.com/chromiumos/third_party/clspv
