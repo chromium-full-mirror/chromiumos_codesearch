@@ -743,6 +743,10 @@
 	branch = refs/heads/chromeos-6.1
 	path = src/third_party/kernel/v6.1
 	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
+[submodule "chromiumos/third_party/kernel/src/third_party/kernel/v6.6"]
+	branch = refs/heads/chromeos-6.6
+	path = src/third_party/kernel/v6.6
+	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
 [submodule "chromiumos/third_party/khronos"]
 	branch = refs/heads/master
 	path = src/third_party/khronos
