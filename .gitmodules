@@ -166,10 +166,6 @@
 	branch = refs/heads/main
 	path = infra/autotest-drone
 	url = https://chromium.googlesource.com/chromiumos/infra/autotest-drone
-[submodule "chromiumos/infra/build/drydock"]
-	branch = refs/heads/main
-	path = infra/build/drydock
-	url = https://chromium.googlesource.com/chromiumos/infra/build/drydock
 [submodule "chromiumos/infra/build/empty-project"]
 	path = src/platform/empty-project
 	url = https://chromium.googlesource.com/chromiumos/infra/build/empty-project
