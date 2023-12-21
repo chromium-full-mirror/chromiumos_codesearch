@@ -381,6 +381,10 @@
 	branch = refs/heads/main
 	path = src/platform/graphics
 	url = https://chromium.googlesource.com/chromiumos/platform/graphics
+[submodule "chromiumos/platform/hdctools_firmware"]
+	branch = refs/heads/main
+	path = src/platform/hdctools_firmware
+	url = https://chromium.googlesource.com/chromiumos/platform/hdctools_firmware
 [submodule "chromiumos/platform/hps-firmware"]
 	branch = refs/heads/main
 	path = src/platform/hps-firmware2
