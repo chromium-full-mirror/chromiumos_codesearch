@@ -627,10 +627,6 @@
 	branch = refs/heads/main
 	path = src/third_party/daisydog
 	url = https://chromium.googlesource.com/chromiumos/third_party/daisydog
-[submodule "chromiumos/third_party/edk2/src/third_party/amd-firmware/binarypi/picasso-edk2"]
-	branch = refs/heads/pco
-	path = src/third_party/amd-firmware/binarypi/picasso-edk2
-	url = https://chromium.googlesource.com/chromiumos/third_party/edk2
 [submodule "chromiumos/third_party/edk2/src/third_party/amd-fsp/cezanne-edk2"]
 	branch = refs/heads/chromeos-czn
 	path = src/third_party/amd-fsp/cezanne-edk2
