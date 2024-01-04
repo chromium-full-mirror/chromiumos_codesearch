@@ -166,10 +166,6 @@
 	branch = refs/heads/main
 	path = infra/autotest-drone
 	url = https://chromium.googlesource.com/chromiumos/infra/autotest-drone
-[submodule "chromiumos/infra/build/drydock"]
-	branch = refs/heads/main
-	path = infra/build/drydock
-	url = https://chromium.googlesource.com/chromiumos/infra/build/drydock
 [submodule "chromiumos/infra/build/empty-project"]
 	path = src/platform/empty-project
 	url = https://chromium.googlesource.com/chromiumos/infra/build/empty-project
@@ -185,6 +181,10 @@
 	branch = refs/heads/main
 	path = infra/go
 	url = https://chromium.googlesource.com/chromiumos/infra/go
+[submodule "chromiumos/infra/ide"]
+	branch = refs/heads/main
+	path = infra/ide
+	url = https://chromium.googlesource.com/chromiumos/infra/ide
 [submodule "chromiumos/infra/lucifer"]
 	branch = refs/heads/main
 	path = infra/lucifer
@@ -365,6 +365,10 @@
 	branch = refs/heads/main
 	path = src/platform/frecon
 	url = https://chromium.googlesource.com/chromiumos/platform/frecon
+[submodule "chromiumos/platform/fw-testing-configs"]
+	branch = refs/heads/main
+	path = src/platform/fw-testing-configs
+	url = https://chromium.googlesource.com/chromiumos/platform/fw-testing-configs
 [submodule "chromiumos/platform/gestures"]
 	branch = refs/heads/main
 	path = src/platform/gestures
@@ -381,6 +385,10 @@
 	branch = refs/heads/main
 	path = src/platform/graphics
 	url = https://chromium.googlesource.com/chromiumos/platform/graphics
+[submodule "chromiumos/platform/hdctools_firmware"]
+	branch = refs/heads/main
+	path = src/platform/hdctools_firmware
+	url = https://chromium.googlesource.com/chromiumos/platform/hdctools_firmware
 [submodule "chromiumos/platform/hps-firmware"]
 	branch = refs/heads/main
 	path = src/platform/hps-firmware2
@@ -593,10 +601,6 @@
 	branch = refs/heads/master
 	path = src/third_party/cbootimage
 	url = https://chromium.googlesource.com/chromiumos/third_party/cbootimage
-[submodule "chromiumos/third_party/chre"]
-	branch = refs/heads/upstream/main
-	path = src/third_party/chre
-	url = https://chromium.googlesource.com/chromiumos/third_party/chre
 [submodule "chromiumos/third_party/clspv"]
 	path = src/third_party/clspv
 	url = https://chromium.googlesource.com/chromiumos/third_party/clspv
@@ -604,7 +608,7 @@
 	path = src/third_party/clvk
 	url = https://chromium.googlesource.com/chromiumos/third_party/clvk
 [submodule "chromiumos/third_party/coreboot"]
-	branch = refs/heads/chromeos-2016.05
+	branch = refs/heads/main
 	path = src/third_party/coreboot
 	url = https://chromium.googlesource.com/chromiumos/third_party/coreboot
 [submodule "chromiumos/third_party/cros-adapta"]
@@ -623,10 +627,6 @@
 	branch = refs/heads/main
 	path = src/third_party/daisydog
 	url = https://chromium.googlesource.com/chromiumos/third_party/daisydog
-[submodule "chromiumos/third_party/edk2/src/third_party/amd-firmware/binarypi/picasso-edk2"]
-	branch = refs/heads/pco
-	path = src/third_party/amd-firmware/binarypi/picasso-edk2
-	url = https://chromium.googlesource.com/chromiumos/third_party/edk2
 [submodule "chromiumos/third_party/edk2/src/third_party/amd-fsp/cezanne-edk2"]
 	branch = refs/heads/chromeos-czn
 	path = src/third_party/amd-fsp/cezanne-edk2
@@ -672,7 +672,7 @@
 	path = src/third_party/flashrom
 	url = https://chromium.googlesource.com/chromiumos/third_party/flashrom
 [submodule "chromiumos/third_party/fwupd"]
-	branch = refs/heads/fwupd-1.9.6
+	branch = refs/heads/fwupd-1.9.9
 	path = src/third_party/fwupd
 	url = https://chromium.googlesource.com/chromiumos/third_party/fwupd
 [submodule "chromiumos/third_party/gmmlib"]
@@ -712,7 +712,7 @@
 	path = src/third_party/kernel/kcam
 	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
 [submodule "chromiumos/third_party/kernel/src/third_party/kernel/upstream"]
-	branch = refs/heads/merge/continuous/chromeos-kernelupstream-6.6-rc6
+	branch = refs/heads/merge/continuous/chromeos-kernelupstream-6.7-rc4
 	path = src/third_party/kernel/upstream
 	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
 [submodule "chromiumos/third_party/kernel/src/third_party/kernel/v4.14"]
@@ -742,6 +742,10 @@
 [submodule "chromiumos/third_party/kernel/src/third_party/kernel/v6.1"]
 	branch = refs/heads/chromeos-6.1
 	path = src/third_party/kernel/v6.1
+	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
+[submodule "chromiumos/third_party/kernel/src/third_party/kernel/v6.6"]
+	branch = refs/heads/chromeos-6.6
+	path = src/third_party/kernel/v6.6
 	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
 [submodule "chromiumos/third_party/khronos"]
 	branch = refs/heads/master
