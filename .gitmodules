@@ -365,10 +365,6 @@
 	branch = refs/heads/main
 	path = src/platform/frecon
 	url = https://chromium.googlesource.com/chromiumos/platform/frecon
-[submodule "chromiumos/platform/fw-testing-configs"]
-	branch = refs/heads/main
-	path = src/platform/fw-testing-configs
-	url = https://chromium.googlesource.com/chromiumos/platform/fw-testing-configs
 [submodule "chromiumos/platform/gestures"]
 	branch = refs/heads/main
 	path = src/platform/gestures
