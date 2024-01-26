@@ -189,9 +189,13 @@
 	branch = refs/heads/main
 	path = infra/lucifer
 	url = https://chromium.googlesource.com/chromiumos/infra/lucifer
-[submodule "chromiumos/infra/proto"]
+[submodule "chromiumos/infra/proto/infra/proto"]
 	branch = refs/heads/main
 	path = infra/proto
+	url = https://chromium.googlesource.com/chromiumos/infra/proto
+[submodule "chromiumos/infra/proto/infra/proto_branched"]
+	branch = refs/heads/main
+	path = infra/proto_branched
 	url = https://chromium.googlesource.com/chromiumos/infra/proto
 [submodule "chromiumos/infra/recipes"]
 	branch = refs/heads/main
