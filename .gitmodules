@@ -1068,6 +1068,9 @@
 	branch = refs/heads/main
 	path = infra/cop
 	url = https://chromium.googlesource.com/infra/cop
+[submodule "linux-syscall-support"]
+	path = src/third_party/lss
+	url = https://chromium.googlesource.com/linux-syscall-support
 [submodule "platform/external/bsdiff"]
 	branch = refs/heads/master
 	path = src/aosp/external/bsdiff
