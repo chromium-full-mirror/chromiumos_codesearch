@@ -489,6 +489,10 @@
 	branch = refs/heads/main
 	path = src/platform/tauto
 	url = https://chromium.googlesource.com/chromiumos/platform/tauto
+[submodule "chromiumos/platform/tflite"]
+	branch = refs/heads/main
+	path = src/platform/tflite
+	url = https://chromium.googlesource.com/chromiumos/platform/tflite
 [submodule "chromiumos/platform/touch_firmware_test"]
 	branch = refs/heads/main
 	path = src/platform/touch_firmware_test
