@@ -1015,7 +1015,11 @@
 	branch = refs/heads/main
 	path = src/third_party/webrtc-apm
 	url = https://chromium.googlesource.com/chromiumos/third_party/webrtc-apm
-[submodule "chromiumos/third_party/zephyr"]
+[submodule "chromiumos/third_party/zephyr/src/platform/release-firmware/zephyr-bloonchipper"]
+	branch = refs/heads/firmware-fpmcu-bloonchipper-release
+	path = src/platform/release-firmware/zephyr-bloonchipper
+	url = https://chromium.googlesource.com/chromiumos/third_party/zephyr
+[submodule "chromiumos/third_party/zephyr/src/third_party/zephyr/main"]
 	branch = refs/heads/main
 	path = src/third_party/zephyr/main
 	url = https://chromium.googlesource.com/chromiumos/third_party/zephyr
