@@ -189,9 +189,13 @@
 	branch = refs/heads/main
 	path = infra/lucifer
 	url = https://chromium.googlesource.com/chromiumos/infra/lucifer
-[submodule "chromiumos/infra/proto"]
+[submodule "chromiumos/infra/proto/infra/proto"]
 	branch = refs/heads/main
 	path = infra/proto
+	url = https://chromium.googlesource.com/chromiumos/infra/proto
+[submodule "chromiumos/infra/proto/infra/proto_branched"]
+	branch = refs/heads/main
+	path = infra/proto_branched
 	url = https://chromium.googlesource.com/chromiumos/infra/proto
 [submodule "chromiumos/infra/recipes"]
 	branch = refs/heads/main
@@ -485,6 +489,10 @@
 	branch = refs/heads/main
 	path = src/platform/tauto
 	url = https://chromium.googlesource.com/chromiumos/platform/tauto
+[submodule "chromiumos/platform/tflite"]
+	branch = refs/heads/main
+	path = src/platform/tflite
+	url = https://chromium.googlesource.com/chromiumos/platform/tflite
 [submodule "chromiumos/platform/touch_firmware_test"]
 	branch = refs/heads/main
 	path = src/platform/touch_firmware_test
@@ -627,6 +635,10 @@
 	branch = refs/heads/main
 	path = src/third_party/daisydog
 	url = https://chromium.googlesource.com/chromiumos/third_party/daisydog
+[submodule "chromiumos/third_party/dhcpcd"]
+	branch = refs/heads/chromeos-7
+	path = src/third_party/dhcpcd-legacy
+	url = https://chromium.googlesource.com/chromiumos/third_party/dhcpcd
 [submodule "chromiumos/third_party/edk2/src/third_party/amd-fsp/cezanne-edk2"]
 	branch = refs/heads/chromeos-czn
 	path = src/third_party/amd-fsp/cezanne-edk2
@@ -672,7 +684,7 @@
 	path = src/third_party/flashrom
 	url = https://chromium.googlesource.com/chromiumos/third_party/flashrom
 [submodule "chromiumos/third_party/fwupd"]
-	branch = refs/heads/fwupd-1.9.9
+	branch = refs/heads/fwupd-1.9.10
 	path = src/third_party/fwupd
 	url = https://chromium.googlesource.com/chromiumos/third_party/fwupd
 [submodule "chromiumos/third_party/gmmlib"]
@@ -712,7 +724,7 @@
 	path = src/third_party/kernel/kcam
 	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
 [submodule "chromiumos/third_party/kernel/src/third_party/kernel/upstream"]
-	branch = refs/heads/merge/continuous/chromeos-kernelupstream-6.7
+	branch = refs/heads/merge/continuous/chromeos-kernelupstream-6.8-rc2
 	path = src/third_party/kernel/upstream
 	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
 [submodule "chromiumos/third_party/kernel/src/third_party/kernel/v4.14"]
@@ -1003,7 +1015,11 @@
 	branch = refs/heads/main
 	path = src/third_party/webrtc-apm
 	url = https://chromium.googlesource.com/chromiumos/third_party/webrtc-apm
-[submodule "chromiumos/third_party/zephyr"]
+[submodule "chromiumos/third_party/zephyr/src/platform/release-firmware/zephyr-bloonchipper"]
+	branch = refs/heads/firmware-fpmcu-bloonchipper-release
+	path = src/platform/release-firmware/zephyr-bloonchipper
+	url = https://chromium.googlesource.com/chromiumos/third_party/zephyr
+[submodule "chromiumos/third_party/zephyr/src/third_party/zephyr/main"]
 	branch = refs/heads/main
 	path = src/third_party/zephyr/main
 	url = https://chromium.googlesource.com/chromiumos/third_party/zephyr
@@ -1060,6 +1076,9 @@
 	branch = refs/heads/main
 	path = infra/cop
 	url = https://chromium.googlesource.com/infra/cop
+[submodule "linux-syscall-support"]
+	path = src/third_party/lss
+	url = https://chromium.googlesource.com/linux-syscall-support
 [submodule "platform/external/bsdiff"]
 	branch = refs/heads/master
 	path = src/aosp/external/bsdiff
