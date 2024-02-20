@@ -667,10 +667,6 @@
 	branch = refs/heads/chromeos-glk
 	path = src/third_party/fsp/glk/edk2
 	url = https://chromium.googlesource.com/chromiumos/third_party/edk2
-[submodule "chromiumos/third_party/em100"]
-	branch = refs/heads/master
-	path = src/third_party/em100
-	url = https://chromium.googlesource.com/chromiumos/third_party/em100
 [submodule "chromiumos/third_party/fastrpc"]
 	branch = refs/heads/master
 	path = src/third_party/fastrpc
