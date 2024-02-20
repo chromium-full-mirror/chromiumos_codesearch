@@ -947,6 +947,10 @@
 	branch = refs/heads/main
 	path = src/third_party/rootdev
 	url = https://chromium.googlesource.com/chromiumos/third_party/rootdev
+[submodule "chromiumos/third_party/rules_pkg"]
+	branch = refs/heads/main
+	path = bazel_deps/rules_pkg
+	url = https://chromium.googlesource.com/chromiumos/third_party/rules_pkg
 [submodule "chromiumos/third_party/rules_rust"]
 	branch = refs/heads/main
 	path = bazel_deps/rules_rust
