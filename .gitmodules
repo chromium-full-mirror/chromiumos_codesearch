@@ -138,10 +138,6 @@
 	branch = refs/heads/main
 	path = gen/amd64-generic
 	url = https://chromium.googlesource.com/chromiumos/codesearch/gen/amd64-generic
-[submodule "chromiumos/codesearch/gen/arm-generic"]
-	branch = refs/heads/main
-	path = gen/arm-generic
-	url = https://chromium.googlesource.com/chromiumos/codesearch/gen/arm-generic
 [submodule "chromiumos/codesearch/gen/arm64-generic"]
 	branch = refs/heads/main
 	path = gen/arm64-generic
