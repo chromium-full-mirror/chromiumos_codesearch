@@ -413,6 +413,10 @@
 	branch = refs/heads/main
 	path = src/platform/jabra_vold
 	url = https://chromium.googlesource.com/chromiumos/platform/jabra_vold
+[submodule "chromiumos/platform/labstation"]
+	branch = refs/heads/main
+	path = src/platform/labstation
+	url = https://chromium.googlesource.com/chromiumos/platform/labstation
 [submodule "chromiumos/platform/libchrome"]
 	branch = refs/heads/main
 	path = src/platform/libchrome
