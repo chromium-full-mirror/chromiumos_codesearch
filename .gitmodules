@@ -150,10 +150,6 @@
 	branch = refs/heads/main
 	path = src/platform/container-guest-tools
 	url = https://chromium.googlesource.com/chromiumos/containers/cros-container-guest-tools
-[submodule "chromiumos/docs"]
-	branch = refs/heads/main
-	path = docs
-	url = https://chromium.googlesource.com/chromiumos/docs
 [submodule "chromiumos/graphyte"]
 	branch = refs/heads/main
 	path = src/platform/graphyte
