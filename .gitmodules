@@ -1061,7 +1061,6 @@
 	path = src/third_party/boringssl
 	url = https://chromium.googlesource.com/external/gob/boringssl/boringssl
 [submodule "external/pigweed/pigweed/pigweed"]
-	branch = refs/heads/upstream/main
 	path = src/third_party/pigweed
 	url = https://chromium.googlesource.com/external/pigweed/pigweed/pigweed
 [submodule "infra/cop"]
