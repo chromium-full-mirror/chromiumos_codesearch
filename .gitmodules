@@ -249,6 +249,10 @@
 	branch = refs/heads/main
 	path = src/platform/bmpblk
 	url = https://chromium.googlesource.com/chromiumos/platform/bmpblk
+[submodule "chromiumos/platform/btpeerd"]
+	branch = refs/heads/main
+	path = src/platform/btpeerd
+	url = https://chromium.googlesource.com/chromiumos/platform/btpeerd
 [submodule "chromiumos/platform/btsocket"]
 	branch = refs/heads/main
 	path = src/platform/btsocket
