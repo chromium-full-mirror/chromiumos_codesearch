@@ -923,6 +923,10 @@
 	branch = refs/heads/main
 	path = src/third_party/optofidelity_protocols
 	url = https://chromium.googlesource.com/chromiumos/third_party/optofidelity_protocols
+[submodule "chromiumos/third_party/pi-gen-btpeer"]
+	branch = refs/heads/chromeos-btpeer
+	path = src/third_party/pi-gen-btpeer
+	url = https://chromium.googlesource.com/chromiumos/third_party/pi-gen-btpeer
 [submodule "chromiumos/third_party/poly-updater"]
 	branch = refs/heads/main
 	path = src/third_party/poly-updater
