@@ -1082,6 +1082,9 @@
 [submodule "linux-syscall-support"]
 	path = src/third_party/lss
 	url = https://chromium.googlesource.com/linux-syscall-support
+[submodule "platform/build"]
+	path = src/aosp/build
+	url = https://android.googlesource.com/platform/build
 [submodule "platform/external/bsdiff"]
 	branch = refs/heads/master
 	path = src/aosp/external/bsdiff
