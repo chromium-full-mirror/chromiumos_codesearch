@@ -277,6 +277,10 @@
 	branch = refs/heads/main
 	path = src/platform/chromiumos-assets
 	url = https://chromium.googlesource.com/chromiumos/platform/chromiumos-assets
+[submodule "chromiumos/platform/common_bazel"]
+	branch = refs/heads/main
+	path = src/platform/common_bazel
+	url = https://chromium.googlesource.com/chromiumos/platform/common_bazel
 [submodule "chromiumos/platform/crdyboot"]
 	branch = refs/heads/main
 	path = src/platform/crdyboot
