@@ -1113,6 +1113,10 @@
 	branch = refs/heads/master
 	path = src/aosp/system/libcppbor
 	url = https://android.googlesource.com/platform/system/libcppbor
+[submodule "platform/system/tools/sysprop"]
+	branch = refs/heads/main
+	path = src/aosp/system/tools/sysprop
+	url = https://android.googlesource.com/platform/system/tools/sysprop
 [submodule "website"]
 	branch = refs/heads/main
 	path = website
