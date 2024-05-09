@@ -305,6 +305,10 @@
 	branch = refs/heads/main
 	path = src/platform/dev
 	url = https://chromium.googlesource.com/chromiumos/platform/dev-util
+[submodule "chromiumos/platform/dolos"]
+	branch = refs/heads/main
+	path = src/platform/dolos
+	url = https://chromium.googlesource.com/chromiumos/platform/dolos
 [submodule "chromiumos/platform/drm-tests"]
 	branch = refs/heads/main
 	path = src/platform/drm-tests
