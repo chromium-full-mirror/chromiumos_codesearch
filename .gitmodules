@@ -631,9 +631,13 @@
 	branch = refs/heads/chromeos-1.12.26
 	path = src/third_party/dbus
 	url = https://chromium.googlesource.com/chromiumos/third_party/dbus
-[submodule "chromiumos/third_party/dhcpcd"]
+[submodule "chromiumos/third_party/dhcpcd/src/third_party/dhcpcd-legacy"]
 	branch = refs/heads/chromeos-7
 	path = src/third_party/dhcpcd-legacy
+	url = https://chromium.googlesource.com/chromiumos/third_party/dhcpcd
+[submodule "chromiumos/third_party/dhcpcd/src/third_party/dhcpcd"]
+	branch = refs/heads/chromeos
+	path = src/third_party/dhcpcd
 	url = https://chromium.googlesource.com/chromiumos/third_party/dhcpcd
 [submodule "chromiumos/third_party/edk2/src/third_party/amd-fsp/cezanne-edk2"]
 	branch = refs/heads/chromeos-czn
