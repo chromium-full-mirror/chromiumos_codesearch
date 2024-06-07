@@ -245,6 +245,10 @@
 	branch = refs/heads/main
 	path = src/platform/bmpblk
 	url = https://chromium.googlesource.com/chromiumos/platform/bmpblk
+[submodule "chromiumos/platform/borealis"]
+	branch = refs/heads/main
+	path = src/platform/borealis-vm
+	url = https://chromium.googlesource.com/chromiumos/platform/borealis
 [submodule "chromiumos/platform/btpeerd"]
 	branch = refs/heads/main
 	path = src/platform/btpeerd
