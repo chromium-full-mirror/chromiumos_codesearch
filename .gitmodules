@@ -987,10 +987,6 @@
 	branch = refs/heads/chromeos
 	path = src/third_party/svunit
 	url = https://chromium.googlesource.com/chromiumos/third_party/svunit
-[submodule "chromiumos/third_party/systemd"]
-	branch = refs/heads/chromeos-v247
-	path = src/third_party/systemd
-	url = https://chromium.googlesource.com/chromiumos/third_party/systemd
 [submodule "chromiumos/third_party/tlsdate"]
 	branch = refs/heads/master
 	path = src/third_party/tlsdate
