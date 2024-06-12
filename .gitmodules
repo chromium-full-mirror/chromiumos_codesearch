@@ -632,7 +632,7 @@
 	path = src/third_party/daisydog
 	url = https://chromium.googlesource.com/chromiumos/third_party/daisydog
 [submodule "chromiumos/third_party/dbus"]
-	branch = refs/heads/chromeos-1.12.26
+	branch = refs/heads/chromeos-1.14.10
 	path = src/third_party/dbus
 	url = https://chromium.googlesource.com/chromiumos/third_party/dbus
 [submodule "chromiumos/third_party/dhcpcd/src/third_party/dhcpcd-legacy"]
