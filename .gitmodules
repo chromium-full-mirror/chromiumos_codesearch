@@ -803,6 +803,10 @@
 	branch = refs/heads/main
 	path = src/third_party/libmbim
 	url = https://chromium.googlesource.com/chromiumos/third_party/libmbim
+[submodule "chromiumos/third_party/libnih"]
+	branch = refs/heads/main
+	path = src/third_party/libnih
+	url = https://chromium.googlesource.com/chromiumos/third_party/libnih
 [submodule "chromiumos/third_party/libqmi"]
 	branch = refs/heads/main
 	path = src/third_party/libqmi
