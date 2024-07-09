@@ -771,6 +771,10 @@
 	branch = refs/heads/master
 	path = src/third_party/lexmark-fax-pnh
 	url = https://chromium.googlesource.com/chromiumos/third_party/lexmark-fax-pnh
+[submodule "chromiumos/third_party/libcamera/src/third_party/libcamera/intelipu7"]
+	branch = refs/heads/intelipu7
+	path = src/third_party/libcamera/intelipu7
+	url = https://chromium.googlesource.com/chromiumos/third_party/libcamera
 [submodule "chromiumos/third_party/libcamera/src/third_party/libcamera/mtkisp7"]
 	branch = refs/heads/mtkisp7
 	path = src/third_party/libcamera/mtkisp7
