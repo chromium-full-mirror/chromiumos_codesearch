@@ -1069,9 +1069,6 @@
 [submodule "external/github.com/google/gtest-parallel"]
 	path = src/third_party/gtest-parallel
 	url = https://chromium.googlesource.com/external/github.com/google/gtest-parallel
-[submodule "external/github.com/include-what-you-use/include-what-you-use"]
-	path = src/third_party/include-what-you-use
-	url = https://chromium.googlesource.com/external/github.com/include-what-you-use/include-what-you-use
 [submodule "external/github.com/llvm/llvm-project"]
 	path = src/third_party/llvm-project
 	url = https://chromium.googlesource.com/external/github.com/llvm/llvm-project
