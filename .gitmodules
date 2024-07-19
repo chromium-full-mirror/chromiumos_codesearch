@@ -333,17 +333,17 @@
 	branch = refs/heads/ish
 	path = src/platform/ish
 	url = https://chromium.googlesource.com/chromiumos/platform/ec
-[submodule "chromiumos/platform/ec/src/platform/release-firmware/fpmcu-bloonchipper"]
+[submodule "chromiumos/platform/ec/src/platform/release-firmware/fpmcu-bloonchipper/ec"]
 	branch = refs/heads/firmware-fpmcu-bloonchipper-release
-	path = src/platform/release-firmware/fpmcu-bloonchipper
+	path = src/platform/release-firmware/fpmcu-bloonchipper/ec
 	url = https://chromium.googlesource.com/chromiumos/platform/ec
-[submodule "chromiumos/platform/ec/src/platform/release-firmware/fpmcu-dartmonkey"]
+[submodule "chromiumos/platform/ec/src/platform/release-firmware/fpmcu-dartmonkey/ec"]
 	branch = refs/heads/firmware-fpmcu-dartmonkey-release
-	path = src/platform/release-firmware/fpmcu-dartmonkey
+	path = src/platform/release-firmware/fpmcu-dartmonkey/ec
 	url = https://chromium.googlesource.com/chromiumos/platform/ec
-[submodule "chromiumos/platform/ec/src/platform/release-firmware/fpmcu-helipilot"]
+[submodule "chromiumos/platform/ec/src/platform/release-firmware/fpmcu-helipilot/ec"]
 	branch = refs/heads/firmware-fpmcu-helipilot-release
-	path = src/platform/release-firmware/fpmcu-helipilot
+	path = src/platform/release-firmware/fpmcu-helipilot/ec
 	url = https://chromium.googlesource.com/chromiumos/platform/ec
 [submodule "chromiumos/platform/factory"]
 	branch = refs/heads/main
