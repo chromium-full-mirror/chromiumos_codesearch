@@ -65,6 +65,10 @@
 	branch = refs/heads/master
 	path = src/aosp/system/core/libutils
 	url = https://chromium.googlesource.com/aosp/platform/system/core/libutils
+[submodule "aosp/platform/system/keymaster"]
+	branch = refs/heads/android13-platform-release
+	path = src/aosp/system/keymint-local
+	url = https://chromium.googlesource.com/aosp/platform/system/keymaster
 [submodule "aosp/platform/system/libbase"]
 	branch = refs/heads/master
 	path = src/aosp/system/libbase
