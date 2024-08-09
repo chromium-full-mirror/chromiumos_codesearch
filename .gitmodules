@@ -433,6 +433,10 @@
 	branch = refs/heads/main
 	path = src/platform/libevstate
 	url = https://chromium.googlesource.com/chromiumos/platform/libevstate
+[submodule "chromiumos/platform/libva-fake-driver"]
+	branch = refs/heads/main
+	path = src/platform/libva-fake-driver
+	url = https://chromium.googlesource.com/chromiumos/platform/libva-fake-driver
 [submodule "chromiumos/platform/microbenchmarks"]
 	branch = refs/heads/main
 	path = src/platform/microbenchmarks
