@@ -991,6 +991,10 @@
 	branch = refs/heads/main
 	path = src/third_party/rust_crates
 	url = https://chromium.googlesource.com/chromiumos/third_party/rust_crates
+[submodule "chromiumos/third_party/scx"]
+	branch = refs/heads/chromeos-1.0.3
+	path = src/third_party/scx
+	url = https://chromium.googlesource.com/chromiumos/third_party/scx
 [submodule "chromiumos/third_party/shellcheck"]
 	branch = refs/heads/chromeos-0.7
 	path = src/third_party/shellcheck
