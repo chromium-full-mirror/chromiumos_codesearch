@@ -409,6 +409,10 @@
 	branch = refs/heads/main
 	path = src/platform/human_motion_robot
 	url = https://chromium.googlesource.com/chromiumos/platform/human_motion_robot
+[submodule "chromiumos/platform/hwtools/diagnoseme"]
+	branch = refs/heads/main
+	path = src/platform/hwtools/diagnoseme
+	url = https://chromium.googlesource.com/chromiumos/platform/hwtools/diagnoseme
 [submodule "chromiumos/platform/initramfs"]
 	branch = refs/heads/main
 	path = src/platform/initramfs
@@ -967,6 +971,10 @@
 	branch = refs/heads/chromeos-btpeer
 	path = src/third_party/pi-gen-btpeer
 	url = https://chromium.googlesource.com/chromiumos/third_party/pi-gen-btpeer
+[submodule "chromiumos/third_party/pigweed/pigweed"]
+	branch = refs/heads/main
+	path = src/third_party/pigweed
+	url = https://chromium.googlesource.com/chromiumos/third_party/pigweed/pigweed
 [submodule "chromiumos/third_party/poly-updater"]
 	branch = refs/heads/main
 	path = src/third_party/poly-updater
@@ -1109,9 +1117,6 @@
 [submodule "external/gob/boringssl/boringssl"]
 	path = src/third_party/boringssl
 	url = https://chromium.googlesource.com/external/gob/boringssl/boringssl
-[submodule "external/pigweed/pigweed/pigweed"]
-	path = src/third_party/pigweed
-	url = https://chromium.googlesource.com/external/pigweed/pigweed/pigweed
 [submodule "infra/cop"]
 	branch = refs/heads/main
 	path = infra/cop
