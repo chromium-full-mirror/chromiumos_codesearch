@@ -972,6 +972,7 @@
 	path = src/third_party/pi-gen-btpeer
 	url = https://chromium.googlesource.com/chromiumos/third_party/pi-gen-btpeer
 [submodule "chromiumos/third_party/pigweed/pigweed"]
+	branch = refs/heads/main
 	path = src/third_party/pigweed
 	url = https://chromium.googlesource.com/chromiumos/third_party/pigweed/pigweed
 [submodule "chromiumos/third_party/poly-updater"]
