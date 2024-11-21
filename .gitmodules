@@ -310,7 +310,7 @@
 	path = src/platform/crosvm
 	url = https://chromium.googlesource.com/chromiumos/platform/crosvm
 [submodule "chromiumos/platform/depthcharge"]
-	branch = refs/heads/main
+	branch = refs/heads/firmware-android-15949.B
 	path = src/platform/depthcharge
 	url = https://chromium.googlesource.com/chromiumos/platform/depthcharge
 [submodule "chromiumos/platform/dev-util"]
@@ -538,7 +538,7 @@
 	path = src/platform/usi-test
 	url = https://chromium.googlesource.com/chromiumos/platform/usi-test
 [submodule "chromiumos/platform/vboot_reference"]
-	branch = refs/heads/main
+	branch = refs/heads/firmware-android-15949.B
 	path = src/platform/vboot_reference
 	url = https://chromium.googlesource.com/chromiumos/platform/vboot_reference
 [submodule "chromiumos/platform/vkbench"]
@@ -628,7 +628,7 @@
 	path = src/third_party/clvk
 	url = https://chromium.googlesource.com/chromiumos/third_party/clvk
 [submodule "chromiumos/third_party/coreboot"]
-	branch = refs/heads/main
+	branch = refs/heads/firmware-android-15949.B
 	path = src/third_party/coreboot
 	url = https://chromium.googlesource.com/chromiumos/third_party/coreboot
 [submodule "chromiumos/third_party/cros-adapta"]
