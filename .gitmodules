@@ -1123,6 +1123,10 @@
 [submodule "platform/build"]
 	path = src/aosp/build
 	url = https://android.googlesource.com/platform/build
+[submodule "platform/external/avb"]
+	branch = refs/heads/main
+	path = src/aosp/external/avb
+	url = https://android.googlesource.com/platform/external/avb
 [submodule "platform/external/bsdiff"]
 	branch = refs/heads/master
 	path = src/aosp/external/bsdiff
