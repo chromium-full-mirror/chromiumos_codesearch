@@ -353,6 +353,10 @@
 	branch = refs/heads/firmware-fpmcu-helipilot-release
 	path = src/platform/release-firmware/fpmcu-helipilot/ec
 	url = https://chromium.googlesource.com/chromiumos/platform/ec
+[submodule "chromiumos/platform/ec-aic-tester"]
+	branch = refs/heads/main
+	path = src/platform/ec-aic-tester
+	url = https://chromium.googlesource.com/chromiumos/platform/ec-aic-tester
 [submodule "chromiumos/platform/factory"]
 	branch = refs/heads/main
 	path = src/platform/factory
