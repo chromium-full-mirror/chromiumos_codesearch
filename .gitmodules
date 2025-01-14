@@ -621,10 +621,6 @@
 	branch = refs/heads/chromeos-5.54
 	path = src/third_party/bluez/next
 	url = https://chromium.googlesource.com/chromiumos/third_party/bluez
-[submodule "chromiumos/third_party/bluez/src/third_party/bluez/upstream"]
-	branch = refs/heads/upstream/master
-	path = src/third_party/bluez/upstream
-	url = https://chromium.googlesource.com/chromiumos/third_party/bluez
 [submodule "chromiumos/third_party/cbootimage"]
 	branch = refs/heads/master
 	path = src/third_party/cbootimage
