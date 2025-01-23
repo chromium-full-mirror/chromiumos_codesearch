@@ -747,14 +747,6 @@
 	branch = refs/heads/merge/continuous/chromeos-kernelupstream-6.12
 	path = src/third_party/kernel/upstream
 	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
-[submodule "chromiumos/third_party/kernel/src/third_party/kernel/v4.14"]
-	branch = refs/heads/chromeos-4.14
-	path = src/third_party/kernel/v4.14
-	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
-[submodule "chromiumos/third_party/kernel/src/third_party/kernel/v4.19"]
-	branch = refs/heads/chromeos-4.19
-	path = src/third_party/kernel/v4.19
-	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
 [submodule "chromiumos/third_party/kernel/src/third_party/kernel/v5.10-arcvm"]
 	branch = refs/heads/chromeos-5.10-arcvm
 	path = src/third_party/kernel/v5.10-arcvm
