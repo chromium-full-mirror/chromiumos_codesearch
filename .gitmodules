@@ -309,6 +309,10 @@
 	branch = refs/heads/chromeos
 	path = src/platform/crosvm
 	url = https://chromium.googlesource.com/chromiumos/platform/crosvm
+[submodule "chromiumos/platform/dagwood"]
+	branch = refs/heads/main
+	path = src/platform/dagwood
+	url = https://chromium.googlesource.com/chromiumos/platform/dagwood
 [submodule "chromiumos/platform/depthcharge"]
 	branch = refs/heads/main
 	path = src/platform/depthcharge
