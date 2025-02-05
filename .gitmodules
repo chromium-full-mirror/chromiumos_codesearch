@@ -1095,6 +1095,10 @@
 	branch = refs/heads/main
 	path = src/third_party/zephyr/picolibc
 	url = https://chromium.googlesource.com/chromiumos/third_party/zephyr/picolibc
+[submodule "copybot"]
+	branch = refs/heads/main
+	path = infra/copybot
+	url = https://chromium.googlesource.com/copybot
 [submodule "external/github.com/bazelbuild/bazel-central-registry"]
 	branch = refs/heads/upstream/main
 	path = bazel_deps/bazel-central-registry
