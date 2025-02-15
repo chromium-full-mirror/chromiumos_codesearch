@@ -708,7 +708,7 @@
 	path = src/third_party/flashrom
 	url = https://chromium.googlesource.com/chromiumos/third_party/flashrom
 [submodule "chromiumos/third_party/fwupd"]
-	branch = refs/heads/fwupd-2.0.5
+	branch = refs/heads/fwupd-2.0.3
 	path = src/third_party/fwupd
 	url = https://chromium.googlesource.com/chromiumos/third_party/fwupd
 [submodule "chromiumos/third_party/gmmlib"]
