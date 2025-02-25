@@ -481,6 +481,10 @@
 	branch = refs/heads/main
 	path = src/platform/passport
 	url = https://chromium.googlesource.com/chromiumos/platform/passport
+[submodule "chromiumos/platform/pdc"]
+	branch = refs/heads/main
+	path = src/platform/pdc
+	url = https://chromium.googlesource.com/chromiumos/platform/pdc
 [submodule "chromiumos/platform/pinweaver"]
 	branch = refs/heads/main
 	path = src/platform/pinweaver
