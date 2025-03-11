@@ -1,0 +1,1169 @@
+[submodule "aosp/platform/external/libutf"]
+	branch = refs/heads/master
+	path = src/aosp/external/libutf
+	url = https://chromium.googlesource.com/aosp/platform/external/libutf
+[submodule "aosp/platform/external/modp_b64"]
+	branch = refs/heads/master
+	path = src/third_party/modp_b64
+	url = https://chromium.googlesource.com/aosp/platform/external/modp_b64
+[submodule "aosp/platform/external/uwb/src/aosp/external/uwb/local"]
+	path = src/aosp/external/uwb/local
+	url = https://chromium.googlesource.com/aosp/platform/external/uwb
+[submodule "aosp/platform/external/uwb/src/aosp/external/uwb/upstream"]
+	branch = refs/heads/upstream/master
+	path = src/aosp/external/uwb/upstream
+	url = https://chromium.googlesource.com/aosp/platform/external/uwb
+[submodule "aosp/platform/frameworks/ml"]
+	branch = refs/heads/main
+	path = src/aosp/frameworks/ml
+	url = https://chromium.googlesource.com/aosp/platform/frameworks/ml
+[submodule "aosp/platform/frameworks/native"]
+	branch = refs/heads/master
+	path = src/aosp/frameworks/native
+	url = https://chromium.googlesource.com/aosp/platform/frameworks/native
+[submodule "aosp/platform/frameworks/proto_logging/src/aosp/frameworks/proto_logging"]
+	branch = refs/heads/master
+	path = src/aosp/frameworks/proto_logging
+	url = https://chromium.googlesource.com/aosp/platform/frameworks/proto_logging
+[submodule "aosp/platform/frameworks/proto_logging/src/aosp/frameworks/proto_logging_upstream"]
+	branch = refs/heads/upstream/main
+	path = src/aosp/frameworks/proto_logging_upstream
+	url = https://chromium.googlesource.com/aosp/platform/frameworks/proto_logging
+[submodule "aosp/platform/hardware/interfaces/neuralnetworks"]
+	branch = refs/heads/master
+	path = src/aosp/hardware/interfaces/neuralnetworks
+	url = https://chromium.googlesource.com/aosp/platform/hardware/interfaces/neuralnetworks
+[submodule "aosp/platform/hardware/nxp/uwb"]
+	branch = refs/heads/main
+	path = src/aosp/hardware/nxp/uwb
+	url = https://chromium.googlesource.com/aosp/platform/hardware/nxp/uwb
+[submodule "aosp/platform/packages/modules/Bluetooth/src/aosp/packages/modules/Bluetooth/local"]
+	branch = refs/heads/main
+	path = src/aosp/packages/modules/Bluetooth/local
+	url = https://chromium.googlesource.com/aosp/platform/packages/modules/Bluetooth
+[submodule "aosp/platform/packages/modules/Bluetooth/src/aosp/packages/modules/Bluetooth/upstream"]
+	branch = refs/heads/upstream/main
+	path = src/aosp/packages/modules/Bluetooth/upstream
+	url = https://chromium.googlesource.com/aosp/platform/packages/modules/Bluetooth
+[submodule "aosp/platform/system/core/base"]
+	branch = refs/heads/master
+	path = src/aosp/system/core/base
+	url = https://chromium.googlesource.com/aosp/platform/system/core/base
+[submodule "aosp/platform/system/core/libbacktrace"]
+	branch = refs/heads/master
+	path = src/aosp/system/core/libbacktrace
+	url = https://chromium.googlesource.com/aosp/platform/system/core/libbacktrace
+[submodule "aosp/platform/system/core/libcutils"]
+	branch = refs/heads/master
+	path = src/aosp/system/core/libcutils
+	url = https://chromium.googlesource.com/aosp/platform/system/core/libcutils
+[submodule "aosp/platform/system/core/liblog"]
+	branch = refs/heads/master
+	path = src/aosp/system/core/liblog
+	url = https://chromium.googlesource.com/aosp/platform/system/core/liblog
+[submodule "aosp/platform/system/core/libsync"]
+	branch = refs/heads/master
+	path = src/aosp/system/libsync
+	url = https://chromium.googlesource.com/aosp/platform/system/core/libsync
+[submodule "aosp/platform/system/core/libutils"]
+	branch = refs/heads/master
+	path = src/aosp/system/core/libutils
+	url = https://chromium.googlesource.com/aosp/platform/system/core/libutils
+[submodule "aosp/platform/system/keymaster"]
+	branch = refs/heads/android13-platform-release
+	path = src/aosp/system/keymint-local
+	url = https://chromium.googlesource.com/aosp/platform/system/keymaster
+[submodule "aosp/platform/system/libbase"]
+	branch = refs/heads/master
+	path = src/aosp/system/libbase
+	url = https://chromium.googlesource.com/aosp/platform/system/libbase
+[submodule "aosp/platform/system/libfmq"]
+	branch = refs/heads/master
+	path = src/aosp/system/libfmq
+	url = https://chromium.googlesource.com/aosp/platform/system/libfmq
+[submodule "aosp/platform/system/libhidl"]
+	branch = refs/heads/master
+	path = src/aosp/system/libhidl
+	url = https://chromium.googlesource.com/aosp/platform/system/libhidl
+[submodule "aosp/platform/system/logging"]
+	branch = refs/heads/master
+	path = src/aosp/system/logging
+	url = https://chromium.googlesource.com/aosp/platform/system/logging
+[submodule "apps/libapps"]
+	branch = refs/heads/main
+	path = src/third_party/libapps
+	url = https://chromium.googlesource.com/apps/libapps
+[submodule "breakpad/breakpad"]
+	path = src/third_party/breakpad
+	url = https://chromium.googlesource.com/breakpad/breakpad
+[submodule "chromium/src/components/policy"]
+	branch = refs/heads/main
+	path = src/chromium/src/components/policy
+	url = https://chromium.googlesource.com/chromium/src/components/policy
+[submodule "chromium/src/media/midi"]
+	path = src/chromium/src/media/midi
+	url = https://chromium.googlesource.com/chromium/src/media/midi
+[submodule "chromium/src/net/tools/testserver"]
+	branch = refs/heads/main
+	path = src/chromium/src/net/tools/testserver
+	url = https://chromium.googlesource.com/chromium/src/net/tools/testserver
+[submodule "chromium/src/third_party/Python-Markdown"]
+	branch = refs/heads/main
+	path = src/chromium/src/third_party/Python-Markdown
+	url = https://chromium.googlesource.com/chromium/src/third_party/Python-Markdown
+[submodule "chromium/src/third_party/private_membership"]
+	branch = refs/heads/main
+	path = src/chromium/src/third_party/private_membership
+	url = https://chromium.googlesource.com/chromium/src/third_party/private_membership
+[submodule "chromium/src/third_party/shell-encryption"]
+	branch = refs/heads/main
+	path = src/chromium/src/third_party/shell-encryption
+	url = https://chromium.googlesource.com/chromium/src/third_party/shell-encryption
+[submodule "chromium/src/third_party/tlslite"]
+	branch = refs/heads/main
+	path = src/chromium/src/third_party/tlslite
+	url = https://chromium.googlesource.com/chromium/src/third_party/tlslite
+[submodule "chromium/src/tools/md_browser"]
+	branch = refs/heads/main
+	path = src/chromium/src/tools/md_browser
+	url = https://chromium.googlesource.com/chromium/src/tools/md_browser
+[submodule "chromium/tools/depot_tools"]
+	path = src/chromium/depot_tools
+	url = https://chromium.googlesource.com/chromium/tools/depot_tools
+[submodule "chromiumos/bazel"]
+	branch = refs/heads/main
+	path = src/bazel
+	url = https://chromium.googlesource.com/chromiumos/bazel
+[submodule "chromiumos/chromite/chromite"]
+	branch = refs/heads/main
+	path = chromite
+	url = https://chromium.googlesource.com/chromiumos/chromite
+[submodule "chromiumos/chromite/infra/chromite-HEAD"]
+	branch = refs/heads/main
+	path = infra/chromite-HEAD
+	url = https://chromium.googlesource.com/chromiumos/chromite
+[submodule "chromiumos/codesearch/gen/amd64-generic"]
+	branch = refs/heads/main
+	path = gen/amd64-generic
+	url = https://chromium.googlesource.com/chromiumos/codesearch/gen/amd64-generic
+[submodule "chromiumos/codesearch/gen/arm64-generic"]
+	branch = refs/heads/main
+	path = gen/arm64-generic
+	url = https://chromium.googlesource.com/chromiumos/codesearch/gen/arm64-generic
+[submodule "chromiumos/config"]
+	branch = refs/heads/main
+	path = src/config
+	url = https://chromium.googlesource.com/chromiumos/config
+[submodule "chromiumos/containers/cros-container-guest-tools"]
+	branch = refs/heads/main
+	path = src/platform/container-guest-tools
+	url = https://chromium.googlesource.com/chromiumos/containers/cros-container-guest-tools
+[submodule "chromiumos/graphyte"]
+	branch = refs/heads/main
+	path = src/platform/graphyte
+	url = https://chromium.googlesource.com/chromiumos/graphyte
+[submodule "chromiumos/infra/autotest-drone"]
+	branch = refs/heads/main
+	path = infra/autotest-drone
+	url = https://chromium.googlesource.com/chromiumos/infra/autotest-drone
+[submodule "chromiumos/infra/build/empty-project"]
+	path = src/platform/empty-project
+	url = https://chromium.googlesource.com/chromiumos/infra/build/empty-project
+[submodule "chromiumos/infra/build/observability-cloud"]
+	branch = refs/heads/main
+	path = infra/build/observability-cloud
+	url = https://chromium.googlesource.com/chromiumos/infra/build/observability-cloud
+[submodule "chromiumos/infra/build/prebuilts-cloud"]
+	branch = refs/heads/main
+	path = infra/build/prebuilts-cloud
+	url = https://chromium.googlesource.com/chromiumos/infra/build/prebuilts-cloud
+[submodule "chromiumos/infra/go"]
+	branch = refs/heads/main
+	path = infra/go
+	url = https://chromium.googlesource.com/chromiumos/infra/go
+[submodule "chromiumos/infra/ide"]
+	branch = refs/heads/main
+	path = infra/ide
+	url = https://chromium.googlesource.com/chromiumos/infra/ide
+[submodule "chromiumos/infra/proto/infra/proto"]
+	branch = refs/heads/main
+	path = infra/proto
+	url = https://chromium.googlesource.com/chromiumos/infra/proto
+[submodule "chromiumos/infra/proto/infra/proto_branched"]
+	branch = refs/heads/main
+	path = infra/proto_branched
+	url = https://chromium.googlesource.com/chromiumos/infra/proto
+[submodule "chromiumos/infra/recipes"]
+	branch = refs/heads/main
+	path = infra/recipes
+	url = https://chromium.googlesource.com/chromiumos/infra/recipes
+[submodule "chromiumos/infra/suite_scheduler"]
+	branch = refs/heads/main
+	path = infra/suite_scheduler
+	url = https://chromium.googlesource.com/chromiumos/infra/suite_scheduler
+[submodule "chromiumos/infra/test-scheduling"]
+	branch = refs/heads/main
+	path = infra/test-scheduling
+	url = https://chromium.googlesource.com/chromiumos/infra/test-scheduling
+[submodule "chromiumos/infra_virtualenv"]
+	branch = refs/heads/main
+	path = infra_virtualenv
+	url = https://chromium.googlesource.com/chromiumos/infra_virtualenv
+[submodule "chromiumos/manifest"]
+	branch = refs/heads/main
+	path = manifest
+	url = https://chromium.googlesource.com/chromiumos/manifest
+[submodule "chromiumos/overlays/board-overlays"]
+	branch = refs/heads/main
+	path = src/overlays
+	url = https://chromium.googlesource.com/chromiumos/overlays/board-overlays
+[submodule "chromiumos/overlays/chromiumos-overlay"]
+	branch = refs/heads/main
+	path = src/third_party/chromiumos-overlay
+	url = https://chromium.googlesource.com/chromiumos/overlays/chromiumos-overlay
+[submodule "chromiumos/overlays/eclass-overlay"]
+	branch = refs/heads/main
+	path = src/third_party/eclass-overlay
+	url = https://chromium.googlesource.com/chromiumos/overlays/eclass-overlay
+[submodule "chromiumos/overlays/portage-stable"]
+	branch = refs/heads/main
+	path = src/third_party/portage-stable
+	url = https://chromium.googlesource.com/chromiumos/overlays/portage-stable
+[submodule "chromiumos/overlays/toolchains"]
+	branch = refs/heads/main
+	path = src/third_party/toolchains-overlay
+	url = https://chromium.googlesource.com/chromiumos/overlays/toolchains
+[submodule "chromiumos/platform/assets"]
+	branch = refs/heads/main
+	path = src/platform/assets
+	url = https://chromium.googlesource.com/chromiumos/platform/assets
+[submodule "chromiumos/platform/audiotest"]
+	branch = refs/heads/main
+	path = src/platform/audiotest
+	url = https://chromium.googlesource.com/chromiumos/platform/audiotest
+[submodule "chromiumos/platform/bisect-kit"]
+	branch = refs/heads/main
+	path = src/platform/bisect-kit
+	url = https://chromium.googlesource.com/chromiumos/platform/bisect-kit
+[submodule "chromiumos/platform/bluetooth"]
+	branch = refs/heads/main
+	path = src/platform/bluetooth
+	url = https://chromium.googlesource.com/chromiumos/platform/bluetooth
+[submodule "chromiumos/platform/bmpblk"]
+	branch = refs/heads/main
+	path = src/platform/bmpblk
+	url = https://chromium.googlesource.com/chromiumos/platform/bmpblk
+[submodule "chromiumos/platform/borealis"]
+	branch = refs/heads/main
+	path = src/platform/borealis-vm
+	url = https://chromium.googlesource.com/chromiumos/platform/borealis
+[submodule "chromiumos/platform/btpeerd"]
+	branch = refs/heads/main
+	path = src/platform/btpeerd
+	url = https://chromium.googlesource.com/chromiumos/platform/btpeerd
+[submodule "chromiumos/platform/btsocket"]
+	branch = refs/heads/main
+	path = src/platform/btsocket
+	url = https://chromium.googlesource.com/chromiumos/platform/btsocket
+[submodule "chromiumos/platform/camera"]
+	branch = refs/heads/main
+	path = src/platform/camera
+	url = https://chromium.googlesource.com/chromiumos/platform/camera
+[submodule "chromiumos/platform/cbor"]
+	branch = refs/heads/main
+	path = src/platform/cbor
+	url = https://chromium.googlesource.com/chromiumos/platform/cbor
+[submodule "chromiumos/platform/cfm-device-monitor"]
+	branch = refs/heads/main
+	path = src/platform/cfm-device-monitor
+	url = https://chromium.googlesource.com/chromiumos/platform/cfm-device-monitor
+[submodule "chromiumos/platform/chameleon"]
+	branch = refs/heads/main
+	path = src/platform/chameleon
+	url = https://chromium.googlesource.com/chromiumos/platform/chameleon
+[submodule "chromiumos/platform/chromiumos-assets"]
+	branch = refs/heads/main
+	path = src/platform/chromiumos-assets
+	url = https://chromium.googlesource.com/chromiumos/platform/chromiumos-assets
+[submodule "chromiumos/platform/common_bazel"]
+	branch = refs/heads/main
+	path = src/platform/common_bazel
+	url = https://chromium.googlesource.com/chromiumos/platform/common_bazel
+[submodule "chromiumos/platform/crdyboot"]
+	branch = refs/heads/main
+	path = src/platform/crdyboot
+	url = https://chromium.googlesource.com/chromiumos/platform/crdyboot
+[submodule "chromiumos/platform/crospts"]
+	branch = refs/heads/main
+	path = src/platform/crospts
+	url = https://chromium.googlesource.com/chromiumos/platform/crospts
+[submodule "chromiumos/platform/crostestutils"]
+	branch = refs/heads/main
+	path = src/platform/crostestutils
+	url = https://chromium.googlesource.com/chromiumos/platform/crostestutils
+[submodule "chromiumos/platform/crosutils"]
+	branch = refs/heads/main
+	path = src/scripts
+	url = https://chromium.googlesource.com/chromiumos/platform/crosutils
+[submodule "chromiumos/platform/crosvm"]
+	branch = refs/heads/chromeos
+	path = src/platform/crosvm
+	url = https://chromium.googlesource.com/chromiumos/platform/crosvm
+[submodule "chromiumos/platform/dagwood"]
+	branch = refs/heads/main
+	path = src/platform/dagwood
+	url = https://chromium.googlesource.com/chromiumos/platform/dagwood
+[submodule "chromiumos/platform/depthcharge"]
+	branch = refs/heads/main
+	path = src/platform/depthcharge
+	url = https://chromium.googlesource.com/chromiumos/platform/depthcharge
+[submodule "chromiumos/platform/dev-util"]
+	branch = refs/heads/main
+	path = src/platform/dev
+	url = https://chromium.googlesource.com/chromiumos/platform/dev-util
+[submodule "chromiumos/platform/dolos"]
+	branch = refs/heads/main
+	path = src/platform/dolos
+	url = https://chromium.googlesource.com/chromiumos/platform/dolos
+[submodule "chromiumos/platform/drm-tests"]
+	branch = refs/heads/main
+	path = src/platform/drm-tests
+	url = https://chromium.googlesource.com/chromiumos/platform/drm-tests
+[submodule "chromiumos/platform/ec/src/platform/cr50"]
+	branch = refs/heads/cr50_stab
+	path = src/platform/cr50
+	url = https://chromium.googlesource.com/chromiumos/platform/ec
+[submodule "chromiumos/platform/ec/src/platform/ec"]
+	branch = refs/heads/main
+	path = src/platform/ec
+	url = https://chromium.googlesource.com/chromiumos/platform/ec
+[submodule "chromiumos/platform/ec/src/platform/gsc-utils"]
+	branch = refs/heads/gsc_utils
+	path = src/platform/gsc-utils
+	url = https://chromium.googlesource.com/chromiumos/platform/ec
+[submodule "chromiumos/platform/ec/src/platform/ish"]
+	branch = refs/heads/ish
+	path = src/platform/ish
+	url = https://chromium.googlesource.com/chromiumos/platform/ec
+[submodule "chromiumos/platform/ec/src/platform/release-firmware/fpmcu-bloonchipper/ec"]
+	branch = refs/heads/firmware-fpmcu-bloonchipper-release
+	path = src/platform/release-firmware/fpmcu-bloonchipper/ec
+	url = https://chromium.googlesource.com/chromiumos/platform/ec
+[submodule "chromiumos/platform/ec/src/platform/release-firmware/fpmcu-dartmonkey/ec"]
+	branch = refs/heads/firmware-fpmcu-dartmonkey-release
+	path = src/platform/release-firmware/fpmcu-dartmonkey/ec
+	url = https://chromium.googlesource.com/chromiumos/platform/ec
+[submodule "chromiumos/platform/ec/src/platform/release-firmware/fpmcu-helipilot/ec"]
+	branch = refs/heads/firmware-fpmcu-helipilot-release
+	path = src/platform/release-firmware/fpmcu-helipilot/ec
+	url = https://chromium.googlesource.com/chromiumos/platform/ec
+[submodule "chromiumos/platform/ec-aic-tester"]
+	branch = refs/heads/main
+	path = src/platform/ec-aic-tester
+	url = https://chromium.googlesource.com/chromiumos/platform/ec-aic-tester
+[submodule "chromiumos/platform/factory"]
+	branch = refs/heads/main
+	path = src/platform/factory
+	url = https://chromium.googlesource.com/chromiumos/platform/factory
+[submodule "chromiumos/platform/factory_installer"]
+	branch = refs/heads/main
+	path = src/platform/factory_installer
+	url = https://chromium.googlesource.com/chromiumos/platform/factory_installer
+[submodule "chromiumos/platform/feature-management"]
+	branch = refs/heads/main
+	path = src/platform/feature-management
+	url = https://chromium.googlesource.com/chromiumos/platform/feature-management
+[submodule "chromiumos/platform/firmware"]
+	branch = refs/heads/main
+	path = src/platform/firmware
+	url = https://chromium.googlesource.com/chromiumos/platform/firmware
+[submodule "chromiumos/platform/frecon"]
+	branch = refs/heads/main
+	path = src/platform/frecon
+	url = https://chromium.googlesource.com/chromiumos/platform/frecon
+[submodule "chromiumos/platform/fw-testing-configs"]
+	branch = refs/heads/main
+	path = src/platform/fw-testing-configs
+	url = https://chromium.googlesource.com/chromiumos/platform/fw-testing-configs
+[submodule "chromiumos/platform/gestures"]
+	branch = refs/heads/main
+	path = src/platform/gestures
+	url = https://chromium.googlesource.com/chromiumos/platform/gestures
+[submodule "chromiumos/platform/glbench/src/platform/glbench-debian"]
+	branch = refs/heads/debian
+	path = src/platform/glbench-debian
+	url = https://chromium.googlesource.com/chromiumos/platform/glbench
+[submodule "chromiumos/platform/glbench/src/platform/glbench"]
+	branch = refs/heads/main
+	path = src/platform/glbench
+	url = https://chromium.googlesource.com/chromiumos/platform/glbench
+[submodule "chromiumos/platform/graphics"]
+	branch = refs/heads/main
+	path = src/platform/graphics
+	url = https://chromium.googlesource.com/chromiumos/platform/graphics
+[submodule "chromiumos/platform/hdctools_firmware"]
+	branch = refs/heads/main
+	path = src/platform/hdctools_firmware
+	url = https://chromium.googlesource.com/chromiumos/platform/hdctools_firmware
+[submodule "chromiumos/platform/hps-firmware"]
+	branch = refs/heads/main
+	path = src/platform/hps-firmware2
+	url = https://chromium.googlesource.com/chromiumos/platform/hps-firmware
+[submodule "chromiumos/platform/hps-firmware-images"]
+	branch = refs/heads/main
+	path = src/platform/hps-firmware-images
+	url = https://chromium.googlesource.com/chromiumos/platform/hps-firmware-images
+[submodule "chromiumos/platform/human_motion_robot"]
+	branch = refs/heads/main
+	path = src/platform/human_motion_robot
+	url = https://chromium.googlesource.com/chromiumos/platform/human_motion_robot
+[submodule "chromiumos/platform/hwtools/diagnoseme"]
+	branch = refs/heads/main
+	path = src/platform/hwtools/diagnoseme
+	url = https://chromium.googlesource.com/chromiumos/platform/hwtools/diagnoseme
+[submodule "chromiumos/platform/initramfs"]
+	branch = refs/heads/main
+	path = src/platform/initramfs
+	url = https://chromium.googlesource.com/chromiumos/platform/initramfs
+[submodule "chromiumos/platform/inputcontrol"]
+	branch = refs/heads/main
+	path = src/platform/inputcontrol
+	url = https://chromium.googlesource.com/chromiumos/platform/inputcontrol
+[submodule "chromiumos/platform/jabra_vold"]
+	branch = refs/heads/main
+	path = src/platform/jabra_vold
+	url = https://chromium.googlesource.com/chromiumos/platform/jabra_vold
+[submodule "chromiumos/platform/labstation"]
+	branch = refs/heads/main
+	path = src/platform/labstation
+	url = https://chromium.googlesource.com/chromiumos/platform/labstation
+[submodule "chromiumos/platform/libchrome"]
+	branch = refs/heads/main
+	path = src/platform/libchrome
+	url = https://chromium.googlesource.com/chromiumos/platform/libchrome
+[submodule "chromiumos/platform/libevdev"]
+	branch = refs/heads/main
+	path = src/platform/libevdev
+	url = https://chromium.googlesource.com/chromiumos/platform/libevdev
+[submodule "chromiumos/platform/libevstate"]
+	branch = refs/heads/main
+	path = src/platform/libevstate
+	url = https://chromium.googlesource.com/chromiumos/platform/libevstate
+[submodule "chromiumos/platform/libva-fake-driver"]
+	branch = refs/heads/main
+	path = src/platform/libva-fake-driver
+	url = https://chromium.googlesource.com/chromiumos/platform/libva-fake-driver
+[submodule "chromiumos/platform/microbenchmarks"]
+	branch = refs/heads/main
+	path = src/platform/microbenchmarks
+	url = https://chromium.googlesource.com/chromiumos/platform/microbenchmarks
+[submodule "chromiumos/platform/minigbm"]
+	branch = refs/heads/main
+	path = src/platform/minigbm
+	url = https://chromium.googlesource.com/chromiumos/platform/minigbm
+[submodule "chromiumos/platform/minijail"]
+	branch = refs/heads/main
+	path = src/platform/minijail
+	url = https://chromium.googlesource.com/chromiumos/platform/minijail
+[submodule "chromiumos/platform/moblab"]
+	branch = refs/heads/main
+	path = src/platform/moblab
+	url = https://chromium.googlesource.com/chromiumos/platform/moblab
+[submodule "chromiumos/platform/mosys"]
+	branch = refs/heads/main
+	path = src/platform/mosys
+	url = https://chromium.googlesource.com/chromiumos/platform/mosys
+[submodule "chromiumos/platform/mttools"]
+	branch = refs/heads/main
+	path = src/platform/mttools
+	url = https://chromium.googlesource.com/chromiumos/platform/mttools
+[submodule "chromiumos/platform/passport"]
+	branch = refs/heads/main
+	path = src/platform/passport
+	url = https://chromium.googlesource.com/chromiumos/platform/passport
+[submodule "chromiumos/platform/pinweaver"]
+	branch = refs/heads/main
+	path = src/platform/pinweaver
+	url = https://chromium.googlesource.com/chromiumos/platform/pinweaver
+[submodule "chromiumos/platform/redaction_tool"]
+	branch = refs/heads/main
+	path = src/platform/redaction_tool
+	url = https://chromium.googlesource.com/chromiumos/platform/redaction_tool
+[submodule "chromiumos/platform/rules_cros"]
+	branch = refs/heads/main
+	path = src/platform/rules_cros
+	url = https://chromium.googlesource.com/chromiumos/platform/rules_cros
+[submodule "chromiumos/platform/rules_cros_firmware"]
+	branch = refs/heads/main
+	path = src/platform/rules_cros_firmware
+	url = https://chromium.googlesource.com/chromiumos/platform/rules_cros_firmware
+[submodule "chromiumos/platform/satlab"]
+	branch = refs/heads/main
+	path = src/platform/satlab
+	url = https://chromium.googlesource.com/chromiumos/platform/satlab
+[submodule "chromiumos/platform/spdm"]
+	branch = refs/heads/main
+	path = src/platform/spdm
+	url = https://chromium.googlesource.com/chromiumos/platform/spdm
+[submodule "chromiumos/platform/tast"]
+	branch = refs/heads/main
+	path = src/platform/tast
+	url = https://chromium.googlesource.com/chromiumos/platform/tast
+[submodule "chromiumos/platform/tast-tests"]
+	branch = refs/heads/main
+	path = src/platform/tast-tests
+	url = https://chromium.googlesource.com/chromiumos/platform/tast-tests
+[submodule "chromiumos/platform/tauto"]
+	branch = refs/heads/main
+	path = src/platform/tauto
+	url = https://chromium.googlesource.com/chromiumos/platform/tauto
+[submodule "chromiumos/platform/tflite"]
+	branch = refs/heads/main
+	path = src/platform/tflite
+	url = https://chromium.googlesource.com/chromiumos/platform/tflite
+[submodule "chromiumos/platform/touch_firmware_test"]
+	branch = refs/heads/main
+	path = src/platform/touch_firmware_test
+	url = https://chromium.googlesource.com/chromiumos/platform/touch_firmware_test
+[submodule "chromiumos/platform/touch_updater"]
+	branch = refs/heads/main
+	path = src/platform/touch_updater
+	url = https://chromium.googlesource.com/chromiumos/platform/touch_updater
+[submodule "chromiumos/platform/touchpad-tests"]
+	branch = refs/heads/main
+	path = src/platform/touchpad-tests
+	url = https://chromium.googlesource.com/chromiumos/platform/touchpad-tests
+[submodule "chromiumos/platform/tpm"]
+	branch = refs/heads/main
+	path = src/third_party/tpm
+	url = https://chromium.googlesource.com/chromiumos/platform/tpm
+[submodule "chromiumos/platform/tpm_lite"]
+	branch = refs/heads/main
+	path = src/platform/tpm_lite
+	url = https://chromium.googlesource.com/chromiumos/platform/tpm_lite
+[submodule "chromiumos/platform/tremplin"]
+	branch = refs/heads/main
+	path = src/platform/tremplin
+	url = https://chromium.googlesource.com/chromiumos/platform/tremplin
+[submodule "chromiumos/platform/usi-test"]
+	branch = refs/heads/main
+	path = src/platform/usi-test
+	url = https://chromium.googlesource.com/chromiumos/platform/usi-test
+[submodule "chromiumos/platform/vboot_reference"]
+	branch = refs/heads/main
+	path = src/platform/vboot_reference
+	url = https://chromium.googlesource.com/chromiumos/platform/vboot_reference
+[submodule "chromiumos/platform/vkbench"]
+	branch = refs/heads/main
+	path = src/platform/vkbench
+	url = https://chromium.googlesource.com/chromiumos/platform/vkbench
+[submodule "chromiumos/platform/vpd"]
+	branch = refs/heads/main
+	path = src/platform/vpd
+	url = https://chromium.googlesource.com/chromiumos/platform/vpd
+[submodule "chromiumos/platform/xolabs-common-core"]
+	branch = refs/heads/main
+	path = src/platform/xolabs-common-core
+	url = https://chromium.googlesource.com/chromiumos/platform/xolabs-common-core
+[submodule "chromiumos/platform/xorg-conf"]
+	branch = refs/heads/main
+	path = src/platform/xorg-conf
+	url = https://chromium.googlesource.com/chromiumos/platform/xorg-conf
+[submodule "chromiumos/platform2"]
+	branch = refs/heads/main
+	path = src/platform2
+	url = https://chromium.googlesource.com/chromiumos/platform2
+[submodule "chromiumos/project"]
+	branch = refs/heads/main
+	path = src/project_public
+	url = https://chromium.googlesource.com/chromiumos/project
+[submodule "chromiumos/repohooks"]
+	branch = refs/heads/main
+	path = src/repohooks
+	url = https://chromium.googlesource.com/chromiumos/repohooks
+[submodule "chromiumos/third_party/OP-TEE/optee_os"]
+	branch = refs/heads/master
+	path = src/third_party/optee_os
+	url = https://chromium.googlesource.com/chromiumos/third_party/OP-TEE/optee_os
+[submodule "chromiumos/third_party/adhd"]
+	branch = refs/heads/main
+	path = src/third_party/adhd
+	url = https://chromium.googlesource.com/chromiumos/third_party/adhd
+[submodule "chromiumos/third_party/ap_wpsr"]
+	branch = refs/heads/main
+	path = src/third_party/ap_wpsr
+	url = https://chromium.googlesource.com/chromiumos/third_party/ap_wpsr
+[submodule "chromiumos/third_party/apitrace/src/third_party/apitrace-debian"]
+	branch = refs/heads/debian
+	path = src/third_party/apitrace-debian
+	url = https://chromium.googlesource.com/chromiumos/third_party/apitrace
+[submodule "chromiumos/third_party/apitrace/src/third_party/apitrace"]
+	branch = refs/heads/master
+	path = src/third_party/apitrace
+	url = https://chromium.googlesource.com/chromiumos/third_party/apitrace
+[submodule "chromiumos/third_party/arm-trusted-firmware"]
+	branch = refs/heads/master
+	path = src/third_party/arm-trusted-firmware
+	url = https://chromium.googlesource.com/chromiumos/third_party/arm-trusted-firmware
+[submodule "chromiumos/third_party/atrusctl"]
+	branch = refs/heads/master
+	path = src/third_party/atrusctl
+	url = https://chromium.googlesource.com/chromiumos/third_party/atrusctl
+[submodule "chromiumos/third_party/autotest"]
+	branch = refs/heads/main
+	path = src/third_party/autotest/files
+	url = https://chromium.googlesource.com/chromiumos/third_party/autotest
+[submodule "chromiumos/third_party/aver-updater"]
+	branch = refs/heads/master
+	path = src/third_party/aver-updater
+	url = https://chromium.googlesource.com/chromiumos/third_party/aver-updater
+[submodule "chromiumos/third_party/bluez/src/third_party/bluez/current"]
+	branch = refs/heads/chromeos-5.54
+	path = src/third_party/bluez/current
+	url = https://chromium.googlesource.com/chromiumos/third_party/bluez
+[submodule "chromiumos/third_party/bluez/src/third_party/bluez/next"]
+	branch = refs/heads/chromeos-5.54
+	path = src/third_party/bluez/next
+	url = https://chromium.googlesource.com/chromiumos/third_party/bluez
+[submodule "chromiumos/third_party/cbootimage"]
+	branch = refs/heads/master
+	path = src/third_party/cbootimage
+	url = https://chromium.googlesource.com/chromiumos/third_party/cbootimage
+[submodule "chromiumos/third_party/clspv"]
+	path = src/third_party/clspv
+	url = https://chromium.googlesource.com/chromiumos/third_party/clspv
+[submodule "chromiumos/third_party/clvk"]
+	path = src/third_party/clvk
+	url = https://chromium.googlesource.com/chromiumos/third_party/clvk
+[submodule "chromiumos/third_party/coreboot"]
+	branch = refs/heads/main
+	path = src/third_party/coreboot
+	url = https://chromium.googlesource.com/chromiumos/third_party/coreboot
+[submodule "chromiumos/third_party/cros-adapta"]
+	branch = refs/heads/master
+	path = src/third_party/cros-adapta
+	url = https://chromium.googlesource.com/chromiumos/third_party/cros-adapta
+[submodule "chromiumos/third_party/cryptoc"]
+	branch = refs/heads/main
+	path = src/third_party/cryptoc
+	url = https://chromium.googlesource.com/chromiumos/third_party/cryptoc
+[submodule "chromiumos/third_party/cups"]
+	branch = refs/heads/chromeos-2.4
+	path = src/third_party/cups
+	url = https://chromium.googlesource.com/chromiumos/third_party/cups
+[submodule "chromiumos/third_party/daisydog"]
+	branch = refs/heads/main
+	path = src/third_party/daisydog
+	url = https://chromium.googlesource.com/chromiumos/third_party/daisydog
+[submodule "chromiumos/third_party/dbus"]
+	branch = refs/heads/chromeos-1.14.10
+	path = src/third_party/dbus
+	url = https://chromium.googlesource.com/chromiumos/third_party/dbus
+[submodule "chromiumos/third_party/dhcpcd/src/third_party/dhcpcd-legacy"]
+	branch = refs/heads/chromeos-7
+	path = src/third_party/dhcpcd-legacy
+	url = https://chromium.googlesource.com/chromiumos/third_party/dhcpcd
+[submodule "chromiumos/third_party/dhcpcd/src/third_party/dhcpcd"]
+	branch = refs/heads/chromeos
+	path = src/third_party/dhcpcd
+	url = https://chromium.googlesource.com/chromiumos/third_party/dhcpcd
+[submodule "chromiumos/third_party/edk2/src/third_party/amd-fsp/cezanne-edk2"]
+	branch = refs/heads/chromeos-czn
+	path = src/third_party/amd-fsp/cezanne-edk2
+	url = https://chromium.googlesource.com/chromiumos/third_party/edk2
+[submodule "chromiumos/third_party/edk2/src/third_party/amd-fsp/mendocino-edk2"]
+	branch = refs/heads/chromeos-mdn
+	path = src/third_party/amd-fsp/mendocino-edk2
+	url = https://chromium.googlesource.com/chromiumos/third_party/edk2
+[submodule "chromiumos/third_party/edk2/src/third_party/amd-fsp/phoenix-edk2"]
+	branch = refs/heads/chromeos-phx
+	path = src/third_party/amd-fsp/phoenix-edk2
+	url = https://chromium.googlesource.com/chromiumos/third_party/edk2
+[submodule "chromiumos/third_party/edk2/src/third_party/edk2"]
+	branch = refs/heads/chromeos-v202308
+	path = src/third_party/edk2
+	url = https://chromium.googlesource.com/chromiumos/third_party/edk2
+[submodule "chromiumos/third_party/edk2/src/third_party/fsp/cml/edk2/branch1"]
+	branch = refs/heads/chromeos-cml-branch1
+	path = src/third_party/fsp/cml/edk2/branch1
+	url = https://chromium.googlesource.com/chromiumos/third_party/edk2
+[submodule "chromiumos/third_party/edk2/src/third_party/fsp/cnl/edk2"]
+	branch = refs/heads/chromeos-cnl
+	path = src/third_party/fsp/cnl/edk2
+	url = https://chromium.googlesource.com/chromiumos/third_party/edk2
+[submodule "chromiumos/third_party/edk2/src/third_party/fsp/glk/edk2"]
+	branch = refs/heads/chromeos-glk
+	path = src/third_party/fsp/glk/edk2
+	url = https://chromium.googlesource.com/chromiumos/third_party/edk2
+[submodule "chromiumos/third_party/fastrpc"]
+	branch = refs/heads/master
+	path = src/third_party/fastrpc
+	url = https://chromium.googlesource.com/chromiumos/third_party/fastrpc
+[submodule "chromiumos/third_party/flashmap"]
+	branch = refs/heads/master
+	path = src/third_party/flashmap
+	url = https://chromium.googlesource.com/chromiumos/third_party/flashmap
+[submodule "chromiumos/third_party/flashrom"]
+	branch = refs/heads/master
+	path = src/third_party/flashrom
+	url = https://chromium.googlesource.com/chromiumos/third_party/flashrom
+[submodule "chromiumos/third_party/fwupd"]
+	branch = refs/heads/fwupd-2.0.3
+	path = src/third_party/fwupd
+	url = https://chromium.googlesource.com/chromiumos/third_party/fwupd
+[submodule "chromiumos/third_party/gmmlib"]
+	branch = refs/heads/chromeos
+	path = src/third_party/gmmlib
+	url = https://chromium.googlesource.com/chromiumos/third_party/gmmlib
+[submodule "chromiumos/third_party/hdctools"]
+	branch = refs/heads/main
+	path = src/third_party/hdctools
+	url = https://chromium.googlesource.com/chromiumos/third_party/hdctools
+[submodule "chromiumos/third_party/hostap/src/third_party/wpa_supplicant-cros/current"]
+	branch = refs/heads/wpa_supplicant-2.10.0
+	path = src/third_party/wpa_supplicant-cros/current
+	url = https://chromium.googlesource.com/chromiumos/third_party/hostap
+[submodule "chromiumos/third_party/hostap/src/third_party/wpa_supplicant-cros/next"]
+	branch = refs/heads/wpa_supplicant-2.10.0
+	path = src/third_party/wpa_supplicant-cros/next
+	url = https://chromium.googlesource.com/chromiumos/third_party/hostap
+[submodule "chromiumos/third_party/hostap/src/third_party/wpa_supplicant"]
+	branch = refs/heads/master
+	path = src/third_party/wpa_supplicant
+	url = https://chromium.googlesource.com/chromiumos/third_party/hostap
+[submodule "chromiumos/third_party/huddly-updater"]
+	branch = refs/heads/master
+	path = src/third_party/huddly-updater
+	url = https://chromium.googlesource.com/chromiumos/third_party/huddly-updater
+[submodule "chromiumos/third_party/igt-gpu-tools"]
+	branch = refs/heads/upstream/master
+	path = src/third_party/igt-gpu-tools
+	url = https://chromium.googlesource.com/chromiumos/third_party/igt-gpu-tools
+[submodule "chromiumos/third_party/intel-wifi-fw-dump"]
+	branch = refs/heads/main
+	path = src/third_party/intel-wifi-fw-dump
+	url = https://chromium.googlesource.com/chromiumos/third_party/intel-wifi-fw-dump
+[submodule "chromiumos/third_party/kernel/src/third_party/kernel/kcam"]
+	branch = refs/heads/kcam-6.1
+	path = src/third_party/kernel/kcam
+	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
+[submodule "chromiumos/third_party/kernel/src/third_party/kernel/upstream"]
+	branch = refs/heads/merge/continuous/chromeos-kernelupstream-6.12
+	path = src/third_party/kernel/upstream
+	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
+[submodule "chromiumos/third_party/kernel/src/third_party/kernel/v5.10-arcvm"]
+	branch = refs/heads/chromeos-5.10-arcvm
+	path = src/third_party/kernel/v5.10-arcvm
+	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
+[submodule "chromiumos/third_party/kernel/src/third_party/kernel/v5.10-cip"]
+	branch = refs/heads/chromeos-5.10-cip
+	path = src/third_party/kernel/v5.10-cip
+	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
+[submodule "chromiumos/third_party/kernel/src/third_party/kernel/v5.10"]
+	branch = refs/heads/chromeos-5.10
+	path = src/third_party/kernel/v5.10
+	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
+[submodule "chromiumos/third_party/kernel/src/third_party/kernel/v5.15"]
+	branch = refs/heads/chromeos-5.15
+	path = src/third_party/kernel/v5.15
+	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
+[submodule "chromiumos/third_party/kernel/src/third_party/kernel/v5.4"]
+	branch = refs/heads/chromeos-5.4
+	path = src/third_party/kernel/v5.4
+	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
+[submodule "chromiumos/third_party/kernel/src/third_party/kernel/v6.1"]
+	branch = refs/heads/chromeos-6.1
+	path = src/third_party/kernel/v6.1
+	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
+[submodule "chromiumos/third_party/kernel/src/third_party/kernel/v6.10-enablement"]
+	branch = refs/heads/merge/continuous/chromeos-6.10-enablement
+	path = src/third_party/kernel/v6.10-enablement
+	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
+[submodule "chromiumos/third_party/kernel/src/third_party/kernel/v6.12"]
+	branch = refs/heads/chromeos-6.12
+	path = src/third_party/kernel/v6.12
+	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
+[submodule "chromiumos/third_party/kernel/src/third_party/kernel/v6.6"]
+	branch = refs/heads/chromeos-6.6
+	path = src/third_party/kernel/v6.6
+	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
+[submodule "chromiumos/third_party/khronos"]
+	branch = refs/heads/master
+	path = src/third_party/khronos
+	url = https://chromium.googlesource.com/chromiumos/third_party/khronos
+[submodule "chromiumos/third_party/labpack"]
+	branch = refs/heads/main
+	path = src/third_party/labpack/files
+	url = https://chromium.googlesource.com/chromiumos/third_party/labpack
+[submodule "chromiumos/third_party/lexmark-fax-pnh"]
+	branch = refs/heads/master
+	path = src/third_party/lexmark-fax-pnh
+	url = https://chromium.googlesource.com/chromiumos/third_party/lexmark-fax-pnh
+[submodule "chromiumos/third_party/libcamera/src/third_party/libcamera/intelipu7"]
+	branch = refs/heads/intelipu7
+	path = src/third_party/libcamera/intelipu7
+	url = https://chromium.googlesource.com/chromiumos/third_party/libcamera
+[submodule "chromiumos/third_party/libcamera/src/third_party/libcamera/mtkisp7"]
+	branch = refs/heads/mtkisp7
+	path = src/third_party/libcamera/mtkisp7
+	url = https://chromium.googlesource.com/chromiumos/third_party/libcamera
+[submodule "chromiumos/third_party/libcamera/src/third_party/libcamera/upstream"]
+	branch = refs/heads/master
+	path = src/third_party/libcamera/upstream
+	url = https://chromium.googlesource.com/chromiumos/third_party/libcamera
+[submodule "chromiumos/third_party/libdrm/src/third_party/libdrm-debian-bullseye"]
+	branch = refs/heads/debian-bullseye
+	path = src/third_party/libdrm-debian-bullseye
+	url = https://chromium.googlesource.com/chromiumos/third_party/libdrm
+[submodule "chromiumos/third_party/libdrm/src/third_party/libdrm-debian-buster"]
+	branch = refs/heads/debian-buster
+	path = src/third_party/libdrm-debian-buster
+	url = https://chromium.googlesource.com/chromiumos/third_party/libdrm
+[submodule "chromiumos/third_party/libdrm/src/third_party/libdrm-debian"]
+	branch = refs/heads/debian
+	path = src/third_party/libdrm-debian
+	url = https://chromium.googlesource.com/chromiumos/third_party/libdrm
+[submodule "chromiumos/third_party/libdrm/src/third_party/libdrm"]
+	branch = refs/heads/upstream/main
+	path = src/third_party/libdrm
+	url = https://chromium.googlesource.com/chromiumos/third_party/libdrm
+[submodule "chromiumos/third_party/libiio"]
+	branch = refs/heads/master
+	path = src/third_party/libiio
+	url = https://chromium.googlesource.com/chromiumos/third_party/libiio
+[submodule "chromiumos/third_party/libmbim"]
+	branch = refs/heads/main
+	path = src/third_party/libmbim
+	url = https://chromium.googlesource.com/chromiumos/third_party/libmbim
+[submodule "chromiumos/third_party/libnih"]
+	branch = refs/heads/main
+	path = src/third_party/libnih
+	url = https://chromium.googlesource.com/chromiumos/third_party/libnih
+[submodule "chromiumos/third_party/libqmi"]
+	branch = refs/heads/main
+	path = src/third_party/libqmi
+	url = https://chromium.googlesource.com/chromiumos/third_party/libqmi
+[submodule "chromiumos/third_party/libqrtr"]
+	branch = refs/heads/master
+	path = src/third_party/libqrtr
+	url = https://chromium.googlesource.com/chromiumos/third_party/libqrtr
+[submodule "chromiumos/third_party/libqrtr-glib"]
+	branch = refs/heads/main
+	path = src/third_party/libqrtr-glib
+	url = https://chromium.googlesource.com/chromiumos/third_party/libqrtr-glib
+[submodule "chromiumos/third_party/libtextclassifier"]
+	branch = refs/heads/master
+	path = src/third_party/libtextclassifier
+	url = https://chromium.googlesource.com/chromiumos/third_party/libtextclassifier
+[submodule "chromiumos/third_party/libv4lplugins"]
+	branch = refs/heads/master
+	path = src/third_party/libv4lplugins
+	url = https://chromium.googlesource.com/chromiumos/third_party/libv4lplugins
+[submodule "chromiumos/third_party/libva"]
+	branch = refs/heads/chromeos
+	path = src/third_party/libva
+	url = https://chromium.googlesource.com/chromiumos/third_party/libva
+[submodule "chromiumos/third_party/libva-intel-driver"]
+	branch = refs/heads/chromeos
+	path = src/third_party/libva-intel-driver
+	url = https://chromium.googlesource.com/chromiumos/third_party/libva-intel-driver
+[submodule "chromiumos/third_party/libva-intel-media-driver"]
+	branch = refs/heads/chromeos
+	path = src/third_party/libva-intel-media-driver
+	url = https://chromium.googlesource.com/chromiumos/third_party/libva-intel-media-driver
+[submodule "chromiumos/third_party/libva-utils"]
+	branch = refs/heads/chromeos
+	path = src/third_party/libva-utils
+	url = https://chromium.googlesource.com/chromiumos/third_party/libva-utils
+[submodule "chromiumos/third_party/linux-firmware"]
+	branch = refs/heads/master
+	path = src/third_party/linux-firmware
+	url = https://chromium.googlesource.com/chromiumos/third_party/linux-firmware
+[submodule "chromiumos/third_party/logitech-updater"]
+	branch = refs/heads/master
+	path = src/third_party/logitech-updater
+	url = https://chromium.googlesource.com/chromiumos/third_party/logitech-updater
+[submodule "chromiumos/third_party/marvell"]
+	branch = refs/heads/master
+	path = src/third_party/marvell
+	url = https://chromium.googlesource.com/chromiumos/third_party/marvell
+[submodule "chromiumos/third_party/mesa/src/third_party/mesa-amd"]
+	branch = refs/heads/chromeos-amd
+	path = src/third_party/mesa-amd
+	url = https://chromium.googlesource.com/chromiumos/third_party/mesa
+[submodule "chromiumos/third_party/mesa/src/third_party/mesa-arcvm"]
+	branch = refs/heads/chromeos-arcvm
+	path = src/third_party/mesa-arcvm
+	url = https://chromium.googlesource.com/chromiumos/third_party/mesa
+[submodule "chromiumos/third_party/mesa/src/third_party/mesa-debian-bullseye"]
+	branch = refs/heads/debian-bullseye
+	path = src/third_party/mesa-debian-bullseye
+	url = https://chromium.googlesource.com/chromiumos/third_party/mesa
+[submodule "chromiumos/third_party/mesa/src/third_party/mesa-debian-buster"]
+	branch = refs/heads/debian-buster
+	path = src/third_party/mesa-debian-buster
+	url = https://chromium.googlesource.com/chromiumos/third_party/mesa
+[submodule "chromiumos/third_party/mesa/src/third_party/mesa-debian"]
+	branch = refs/heads/debian
+	path = src/third_party/mesa-debian
+	url = https://chromium.googlesource.com/chromiumos/third_party/mesa
+[submodule "chromiumos/third_party/mesa/src/third_party/mesa-freedreno"]
+	branch = refs/heads/chromeos-freedreno
+	path = src/third_party/mesa-freedreno
+	url = https://chromium.googlesource.com/chromiumos/third_party/mesa
+[submodule "chromiumos/third_party/mesa/src/third_party/mesa-img"]
+	branch = refs/heads/mesa-19.0
+	path = src/third_party/mesa-img
+	url = https://chromium.googlesource.com/chromiumos/third_party/mesa
+[submodule "chromiumos/third_party/mesa/src/third_party/mesa-iris"]
+	branch = refs/heads/chromeos-iris
+	path = src/third_party/mesa-iris
+	url = https://chromium.googlesource.com/chromiumos/third_party/mesa
+[submodule "chromiumos/third_party/mesa/src/third_party/mesa-radv"]
+	branch = refs/heads/chromeos-radv
+	path = src/third_party/mesa-radv
+	url = https://chromium.googlesource.com/chromiumos/third_party/mesa
+[submodule "chromiumos/third_party/mesa/src/third_party/mesa-reven"]
+	branch = refs/heads/chromeos-reven
+	path = src/third_party/mesa-reven
+	url = https://chromium.googlesource.com/chromiumos/third_party/mesa
+[submodule "chromiumos/third_party/mesa/src/third_party/mesa"]
+	branch = refs/heads/upstream/main
+	path = src/third_party/mesa
+	url = https://chromium.googlesource.com/chromiumos/third_party/mesa
+[submodule "chromiumos/third_party/mimo-updater"]
+	branch = refs/heads/master
+	path = src/third_party/mimo-updater
+	url = https://chromium.googlesource.com/chromiumos/third_party/mimo-updater
+[submodule "chromiumos/third_party/mmc-utils"]
+	branch = refs/heads/master
+	path = src/third_party/mmc-utils
+	url = https://chromium.googlesource.com/chromiumos/third_party/mmc-utils
+[submodule "chromiumos/third_party/modemmanager-next"]
+	branch = refs/heads/main
+	path = src/third_party/modemmanager-next
+	url = https://chromium.googlesource.com/chromiumos/third_party/modemmanager-next
+[submodule "chromiumos/third_party/novatek-tcon-fw-update-tool"]
+	branch = refs/heads/master
+	path = src/third_party/novatek-tcon-fw-update-tool
+	url = https://chromium.googlesource.com/chromiumos/third_party/novatek-tcon-fw-update-tool
+[submodule "chromiumos/third_party/optofidelity_TPPT"]
+	branch = refs/heads/main
+	path = src/third_party/optofidelity_TPPT
+	url = https://chromium.googlesource.com/chromiumos/third_party/optofidelity_TPPT
+[submodule "chromiumos/third_party/optofidelity_TPPT_analysis"]
+	branch = refs/heads/main
+	path = src/third_party/optofidelity_TPPT_analysis
+	url = https://chromium.googlesource.com/chromiumos/third_party/optofidelity_TPPT_analysis
+[submodule "chromiumos/third_party/optofidelity_chrome_touch_client"]
+	branch = refs/heads/main
+	path = src/third_party/optofidelity_chrome_touch_client
+	url = https://chromium.googlesource.com/chromiumos/third_party/optofidelity_chrome_touch_client
+[submodule "chromiumos/third_party/optofidelity_chromeos_touch_sender"]
+	branch = refs/heads/main
+	path = src/third_party/optofidelity_chromeos_touch_sender
+	url = https://chromium.googlesource.com/chromiumos/third_party/optofidelity_chromeos_touch_sender
+[submodule "chromiumos/third_party/optofidelity_protocols"]
+	branch = refs/heads/main
+	path = src/third_party/optofidelity_protocols
+	url = https://chromium.googlesource.com/chromiumos/third_party/optofidelity_protocols
+[submodule "chromiumos/third_party/pi-gen-btpeer"]
+	branch = refs/heads/chromeos-btpeer
+	path = src/third_party/pi-gen-btpeer
+	url = https://chromium.googlesource.com/chromiumos/third_party/pi-gen-btpeer
+[submodule "chromiumos/third_party/pigweed/pigweed"]
+	branch = refs/heads/main
+	path = src/third_party/pigweed
+	url = https://chromium.googlesource.com/chromiumos/third_party/pigweed/pigweed
+[submodule "chromiumos/third_party/poly-updater"]
+	branch = refs/heads/main
+	path = src/third_party/poly-updater
+	url = https://chromium.googlesource.com/chromiumos/third_party/poly-updater
+[submodule "chromiumos/third_party/portage_tool"]
+	branch = refs/heads/chromeos-2.3.75
+	path = src/third_party/portage_tool
+	url = https://chromium.googlesource.com/chromiumos/third_party/portage_tool
+[submodule "chromiumos/third_party/pyelftools"]
+	branch = refs/heads/chromeos-0.22
+	path = src/third_party/pyelftools
+	url = https://chromium.googlesource.com/chromiumos/third_party/pyelftools
+[submodule "chromiumos/third_party/rootdev"]
+	branch = refs/heads/main
+	path = src/third_party/rootdev
+	url = https://chromium.googlesource.com/chromiumos/third_party/rootdev
+[submodule "chromiumos/third_party/rules_cc"]
+	branch = refs/heads/main
+	path = bazel_deps/rules_cc
+	url = https://chromium.googlesource.com/chromiumos/third_party/rules_cc
+[submodule "chromiumos/third_party/rules_pkg"]
+	branch = refs/heads/main
+	path = bazel_deps/rules_pkg
+	url = https://chromium.googlesource.com/chromiumos/third_party/rules_pkg
+[submodule "chromiumos/third_party/rules_rust"]
+	branch = refs/heads/main
+	path = bazel_deps/rules_rust
+	url = https://chromium.googlesource.com/chromiumos/third_party/rules_rust
+[submodule "chromiumos/third_party/rust-vmm/vhost"]
+	branch = refs/heads/main
+	path = src/third_party/rust-vmm/vhost
+	url = https://chromium.googlesource.com/chromiumos/third_party/rust-vmm/vhost
+[submodule "chromiumos/third_party/rust_crates"]
+	branch = refs/heads/main
+	path = src/third_party/rust_crates
+	url = https://chromium.googlesource.com/chromiumos/third_party/rust_crates
+[submodule "chromiumos/third_party/scx"]
+	branch = refs/heads/chromeos-1.0.3
+	path = src/third_party/scx
+	url = https://chromium.googlesource.com/chromiumos/third_party/scx
+[submodule "chromiumos/third_party/shellcheck"]
+	branch = refs/heads/chromeos-0.7
+	path = src/third_party/shellcheck
+	url = https://chromium.googlesource.com/chromiumos/third_party/shellcheck
+[submodule "chromiumos/third_party/sis-updater"]
+	branch = refs/heads/master
+	path = src/third_party/sis-updater
+	url = https://chromium.googlesource.com/chromiumos/third_party/sis-updater
+[submodule "chromiumos/third_party/sound-open-firmware"]
+	branch = refs/heads/master
+	path = src/third_party/sound-open-firmware
+	url = https://chromium.googlesource.com/chromiumos/third_party/sound-open-firmware
+[submodule "chromiumos/third_party/svunit"]
+	branch = refs/heads/chromeos
+	path = src/third_party/svunit
+	url = https://chromium.googlesource.com/chromiumos/third_party/svunit
+[submodule "chromiumos/third_party/tlsdate"]
+	branch = refs/heads/master
+	path = src/third_party/tlsdate
+	url = https://chromium.googlesource.com/chromiumos/third_party/tlsdate
+[submodule "chromiumos/third_party/toolchain-utils"]
+	branch = refs/heads/main
+	path = src/third_party/toolchain-utils
+	url = https://chromium.googlesource.com/chromiumos/third_party/toolchain-utils
+[submodule "chromiumos/third_party/tpm2"]
+	branch = refs/heads/main
+	path = src/third_party/tpm2
+	url = https://chromium.googlesource.com/chromiumos/third_party/tpm2
+[submodule "chromiumos/third_party/trousers"]
+	branch = refs/heads/chromeos-0.3.13
+	path = src/third_party/trousers
+	url = https://chromium.googlesource.com/chromiumos/third_party/trousers
+[submodule "chromiumos/third_party/u-boot"]
+	branch = refs/heads/chromeos-v2023.10-next
+	path = src/third_party/u-boot/files
+	url = https://chromium.googlesource.com/chromiumos/third_party/u-boot
+[submodule "chromiumos/third_party/upstart"]
+	branch = refs/heads/chromeos-1.13
+	path = src/third_party/upstart
+	url = https://chromium.googlesource.com/chromiumos/third_party/upstart
+[submodule "chromiumos/third_party/virglrenderer"]
+	branch = refs/heads/main
+	path = src/third_party/virglrenderer
+	url = https://chromium.googlesource.com/chromiumos/third_party/virglrenderer
+[submodule "chromiumos/third_party/virtual-usb-printer"]
+	branch = refs/heads/virtual-printer
+	path = src/third_party/virtual-usb-printer
+	url = https://chromium.googlesource.com/chromiumos/third_party/virtual-usb-printer
+[submodule "chromiumos/third_party/webrtc-apm"]
+	branch = refs/heads/main
+	path = src/third_party/webrtc-apm
+	url = https://chromium.googlesource.com/chromiumos/third_party/webrtc-apm
+[submodule "chromiumos/third_party/zephyr/src/platform/release-firmware/zephyr-bloonchipper"]
+	branch = refs/heads/firmware-fpmcu-bloonchipper-release
+	path = src/platform/release-firmware/zephyr-bloonchipper
+	url = https://chromium.googlesource.com/chromiumos/third_party/zephyr
+[submodule "chromiumos/third_party/zephyr/src/third_party/zephyr/main"]
+	branch = refs/heads/main
+	path = src/third_party/zephyr/main
+	url = https://chromium.googlesource.com/chromiumos/third_party/zephyr
+[submodule "chromiumos/third_party/zephyr/cmsis"]
+	branch = refs/heads/chromeos-main
+	path = src/third_party/zephyr/cmsis
+	url = https://chromium.googlesource.com/chromiumos/third_party/zephyr/cmsis
+[submodule "chromiumos/third_party/zephyr/hal_intel"]
+	branch = refs/heads/main
+	path = src/third_party/zephyr/hal_intel_public
+	url = https://chromium.googlesource.com/chromiumos/third_party/zephyr/hal_intel
+[submodule "chromiumos/third_party/zephyr/hal_stm32"]
+	branch = refs/heads/chromeos-main
+	path = src/third_party/zephyr/hal_stm32
+	url = https://chromium.googlesource.com/chromiumos/third_party/zephyr/hal_stm32
+[submodule "chromiumos/third_party/zephyr/nanopb"]
+	branch = refs/heads/main
+	path = src/third_party/zephyr/nanopb
+	url = https://chromium.googlesource.com/chromiumos/third_party/zephyr/nanopb
+[submodule "chromiumos/third_party/zephyr/picolibc"]
+	branch = refs/heads/main
+	path = src/third_party/zephyr/picolibc
+	url = https://chromium.googlesource.com/chromiumos/third_party/zephyr/picolibc
+[submodule "copybot"]
+	branch = refs/heads/main
+	path = infra/copybot
+	url = https://chromium.googlesource.com/copybot
+[submodule "external/github.com/bazelbuild/bazel-central-registry"]
+	branch = refs/heads/upstream/main
+	path = bazel_deps/bazel-central-registry
+	url = https://chromium.googlesource.com/external/github.com/bazelbuild/bazel-central-registry
+[submodule "external/github.com/google/googletest"]
+	path = src/third_party/googletest
+	url = https://chromium.googlesource.com/external/github.com/google/googletest
+[submodule "external/github.com/google/gtest-parallel"]
+	path = src/third_party/gtest-parallel
+	url = https://chromium.googlesource.com/external/github.com/google/gtest-parallel
+[submodule "external/github.com/llvm/llvm-project"]
+	path = src/third_party/llvm-project
+	url = https://chromium.googlesource.com/external/github.com/llvm/llvm-project
+[submodule "external/github.com/rostedt/ureadahead"]
+	path = src/third_party/ureadahead
+	url = https://chromium.googlesource.com/external/github.com/rostedt/ureadahead
+[submodule "external/gitlab.com/libeigen/eigen"]
+	path = src/third_party/eigen3
+	url = https://chromium.googlesource.com/external/gitlab.com/libeigen/eigen
+[submodule "external/gob/boringssl/boringssl"]
+	path = src/third_party/boringssl
+	url = https://chromium.googlesource.com/external/gob/boringssl/boringssl
+[submodule "infra/cop"]
+	branch = refs/heads/main
+	path = infra/cop
+	url = https://chromium.googlesource.com/infra/cop
+[submodule "linux-syscall-support"]
+	path = src/third_party/lss
+	url = https://chromium.googlesource.com/linux-syscall-support
+[submodule "platform/build"]
+	path = src/aosp/build
+	url = https://android.googlesource.com/platform/build
+[submodule "platform/external/avb"]
+	branch = refs/heads/main
+	path = src/aosp/external/avb
+	url = https://android.googlesource.com/platform/external/avb
+[submodule "platform/external/bsdiff"]
+	branch = refs/heads/master
+	path = src/aosp/external/bsdiff
+	url = https://android.googlesource.com/platform/external/bsdiff
+[submodule "platform/external/marisa-trie"]
+	branch = refs/heads/master
+	path = src/aosp/external/marisa-trie
+	url = https://android.googlesource.com/platform/external/marisa-trie
+[submodule "platform/external/perfetto"]
+	branch = refs/heads/master
+	path = src/aosp/external/perfetto
+	url = https://android.googlesource.com/platform/external/perfetto
+[submodule "platform/external/puffin"]
+	branch = refs/heads/master
+	path = src/aosp/external/puffin
+	url = https://android.googlesource.com/platform/external/puffin
+[submodule "platform/system/keymaster"]
+	branch = refs/heads/pie-release
+	path = src/aosp/system/keymaster
+	url = https://android.googlesource.com/platform/system/keymaster
+[submodule "platform/system/libcppbor"]
+	branch = refs/heads/master
+	path = src/aosp/system/libcppbor
+	url = https://android.googlesource.com/platform/system/libcppbor
+[submodule "platform/system/tools/sysprop"]
+	branch = refs/heads/main
+	path = src/aosp/system/tools/sysprop
+	url = https://android.googlesource.com/platform/system/tools/sysprop
+[submodule "website"]
+	branch = refs/heads/main
+	path = website
+	url = https://chromium.googlesource.com/website
