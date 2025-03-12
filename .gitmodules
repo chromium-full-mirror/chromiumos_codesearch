@@ -1114,7 +1114,6 @@
 	path = src/third_party/gtest-parallel
 	url = https://chromium.googlesource.com/external/github.com/google/gtest-parallel
 [submodule "external/github.com/llvm/llvm-project"]
-	branch = refs/heads/chromeos/llvm-r547379-1
 	path = src/third_party/llvm-project
 	url = https://chromium.googlesource.com/external/github.com/llvm/llvm-project
 [submodule "external/github.com/rostedt/ureadahead"]
