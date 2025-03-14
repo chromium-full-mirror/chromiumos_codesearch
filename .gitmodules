@@ -309,6 +309,10 @@
 	branch = refs/heads/chromeos
 	path = src/platform/crosvm
 	url = https://chromium.googlesource.com/chromiumos/platform/crosvm
+[submodule "chromiumos/platform/dagwood"]
+	branch = refs/heads/main
+	path = src/platform/dagwood
+	url = https://chromium.googlesource.com/chromiumos/platform/dagwood
 [submodule "chromiumos/platform/depthcharge"]
 	branch = refs/heads/firmware-android-15949.B
 	path = src/platform/depthcharge
@@ -700,7 +704,7 @@
 	path = src/third_party/flashrom
 	url = https://chromium.googlesource.com/chromiumos/third_party/flashrom
 [submodule "chromiumos/third_party/fwupd"]
-	branch = refs/heads/fwupd-2.0.3
+	branch = refs/heads/fwupd-2.0.5
 	path = src/third_party/fwupd
 	url = https://chromium.googlesource.com/chromiumos/third_party/fwupd
 [submodule "chromiumos/third_party/gmmlib"]
@@ -1095,6 +1099,10 @@
 	branch = refs/heads/main
 	path = src/third_party/zephyr/picolibc
 	url = https://chromium.googlesource.com/chromiumos/third_party/zephyr/picolibc
+[submodule "copybot"]
+	branch = refs/heads/main
+	path = infra/copybot
+	url = https://chromium.googlesource.com/copybot
 [submodule "external/github.com/bazelbuild/bazel-central-registry"]
 	branch = refs/heads/upstream/main
 	path = bazel_deps/bazel-central-registry
