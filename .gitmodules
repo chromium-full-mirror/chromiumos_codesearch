@@ -353,6 +353,10 @@
 	branch = refs/heads/firmware-fpmcu-helipilot-release
 	path = src/platform/release-firmware/fpmcu-helipilot/ec
 	url = https://chromium.googlesource.com/chromiumos/platform/ec
+[submodule "chromiumos/platform/ec-aic-tester"]
+	branch = refs/heads/main
+	path = src/platform/ec-aic-tester
+	url = https://chromium.googlesource.com/chromiumos/platform/ec-aic-tester
 [submodule "chromiumos/platform/factory"]
 	branch = refs/heads/main
 	path = src/platform/factory
@@ -613,10 +617,6 @@
 	branch = refs/heads/chromeos-5.54
 	path = src/third_party/bluez/next
 	url = https://chromium.googlesource.com/chromiumos/third_party/bluez
-[submodule "chromiumos/third_party/bluez/src/third_party/bluez/upstream"]
-	branch = refs/heads/upstream/master
-	path = src/third_party/bluez/upstream
-	url = https://chromium.googlesource.com/chromiumos/third_party/bluez
 [submodule "chromiumos/third_party/cbootimage"]
 	branch = refs/heads/master
 	path = src/third_party/cbootimage
@@ -700,7 +700,7 @@
 	path = src/third_party/flashrom
 	url = https://chromium.googlesource.com/chromiumos/third_party/flashrom
 [submodule "chromiumos/third_party/fwupd"]
-	branch = refs/heads/fwupd-2.0.1
+	branch = refs/heads/fwupd-2.0.3
 	path = src/third_party/fwupd
 	url = https://chromium.googlesource.com/chromiumos/third_party/fwupd
 [submodule "chromiumos/third_party/gmmlib"]
@@ -778,6 +778,10 @@
 [submodule "chromiumos/third_party/kernel/src/third_party/kernel/v6.10-enablement"]
 	branch = refs/heads/merge/continuous/chromeos-6.10-enablement
 	path = src/third_party/kernel/v6.10-enablement
+	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
+[submodule "chromiumos/third_party/kernel/src/third_party/kernel/v6.12"]
+	branch = refs/heads/chromeos-6.12
+	path = src/third_party/kernel/v6.12
 	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
 [submodule "chromiumos/third_party/kernel/src/third_party/kernel/v6.6"]
 	branch = refs/heads/chromeos-6.6
