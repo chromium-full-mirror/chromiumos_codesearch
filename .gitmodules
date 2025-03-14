@@ -704,7 +704,7 @@
 	path = src/third_party/flashrom
 	url = https://chromium.googlesource.com/chromiumos/third_party/flashrom
 [submodule "chromiumos/third_party/fwupd"]
-	branch = refs/heads/fwupd-2.0.5
+	branch = refs/heads/fwupd-2.0.6
 	path = src/third_party/fwupd
 	url = https://chromium.googlesource.com/chromiumos/third_party/fwupd
 [submodule "chromiumos/third_party/gmmlib"]
@@ -1136,7 +1136,6 @@
 	path = src/aosp/build
 	url = https://android.googlesource.com/platform/build
 [submodule "platform/external/avb"]
-	branch = refs/heads/main
 	path = src/aosp/external/avb
 	url = https://android.googlesource.com/platform/external/avb
 [submodule "platform/external/bsdiff"]
