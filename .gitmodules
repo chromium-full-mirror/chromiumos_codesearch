@@ -445,10 +445,6 @@
 	branch = refs/heads/main
 	path = src/platform/libevdev
 	url = https://chromium.googlesource.com/chromiumos/platform/libevdev
-[submodule "chromiumos/platform/libevstate"]
-	branch = refs/heads/main
-	path = src/platform/libevstate
-	url = https://chromium.googlesource.com/chromiumos/platform/libevstate
 [submodule "chromiumos/platform/libva-fake-driver"]
 	branch = refs/heads/main
 	path = src/platform/libva-fake-driver
@@ -712,7 +708,7 @@
 	path = src/third_party/flashrom
 	url = https://chromium.googlesource.com/chromiumos/third_party/flashrom
 [submodule "chromiumos/third_party/fwupd"]
-	branch = refs/heads/fwupd-2.0.6
+	branch = refs/heads/fwupd-2.0.7
 	path = src/third_party/fwupd
 	url = https://chromium.googlesource.com/chromiumos/third_party/fwupd
 [submodule "chromiumos/third_party/gmmlib"]
