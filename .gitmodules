@@ -703,7 +703,11 @@
 	branch = refs/heads/master
 	path = src/third_party/flashmap
 	url = https://chromium.googlesource.com/chromiumos/third_party/flashmap
-[submodule "chromiumos/third_party/flashrom"]
+[submodule "chromiumos/third_party/flashrom/src/third_party/flashrom-legacy"]
+	branch = refs/heads/crosec-legacy-drv
+	path = src/third_party/flashrom-legacy
+	url = https://chromium.googlesource.com/chromiumos/third_party/flashrom
+[submodule "chromiumos/third_party/flashrom/src/third_party/flashrom"]
 	branch = refs/heads/master
 	path = src/third_party/flashrom
 	url = https://chromium.googlesource.com/chromiumos/third_party/flashrom
