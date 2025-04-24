@@ -602,7 +602,6 @@
 	path = src/third_party/apitrace
 	url = https://chromium.googlesource.com/chromiumos/third_party/apitrace
 [submodule "chromiumos/third_party/arm-trusted-firmware"]
-	branch = refs/heads/master
 	path = src/third_party/arm-trusted-firmware
 	url = https://chromium.googlesource.com/chromiumos/third_party/arm-trusted-firmware
 [submodule "chromiumos/third_party/atrusctl"]
