@@ -1026,10 +1026,6 @@
 	branch = refs/heads/master
 	path = src/third_party/sis-updater
 	url = https://chromium.googlesource.com/chromiumos/third_party/sis-updater
-[submodule "chromiumos/third_party/sound-open-firmware"]
-	branch = refs/heads/master
-	path = src/third_party/sound-open-firmware
-	url = https://chromium.googlesource.com/chromiumos/third_party/sound-open-firmware
 [submodule "chromiumos/third_party/svunit"]
 	branch = refs/heads/chromeos
 	path = src/third_party/svunit
