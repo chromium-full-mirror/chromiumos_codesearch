@@ -445,10 +445,6 @@
 	branch = refs/heads/main
 	path = src/platform/libevdev
 	url = https://chromium.googlesource.com/chromiumos/platform/libevdev
-[submodule "chromiumos/platform/libevstate"]
-	branch = refs/heads/main
-	path = src/platform/libevstate
-	url = https://chromium.googlesource.com/chromiumos/platform/libevstate
 [submodule "chromiumos/platform/libva-fake-driver"]
 	branch = refs/heads/main
 	path = src/platform/libva-fake-driver
@@ -598,7 +594,6 @@
 	path = src/third_party/apitrace
 	url = https://chromium.googlesource.com/chromiumos/third_party/apitrace
 [submodule "chromiumos/third_party/arm-trusted-firmware"]
-	branch = refs/heads/master
 	path = src/third_party/arm-trusted-firmware
 	url = https://chromium.googlesource.com/chromiumos/third_party/arm-trusted-firmware
 [submodule "chromiumos/third_party/atrusctl"]
@@ -699,12 +694,16 @@
 	branch = refs/heads/master
 	path = src/third_party/flashmap
 	url = https://chromium.googlesource.com/chromiumos/third_party/flashmap
-[submodule "chromiumos/third_party/flashrom"]
+[submodule "chromiumos/third_party/flashrom/src/third_party/flashrom-legacy"]
+	branch = refs/heads/crosec-legacy-drv
+	path = src/third_party/flashrom-legacy
+	url = https://chromium.googlesource.com/chromiumos/third_party/flashrom
+[submodule "chromiumos/third_party/flashrom/src/third_party/flashrom"]
 	branch = refs/heads/master
 	path = src/third_party/flashrom
 	url = https://chromium.googlesource.com/chromiumos/third_party/flashrom
 [submodule "chromiumos/third_party/fwupd"]
-	branch = refs/heads/fwupd-2.0.6
+	branch = refs/heads/fwupd-2.0.7
 	path = src/third_party/fwupd
 	url = https://chromium.googlesource.com/chromiumos/third_party/fwupd
 [submodule "chromiumos/third_party/gmmlib"]
@@ -1027,10 +1026,6 @@
 	branch = refs/heads/master
 	path = src/third_party/sis-updater
 	url = https://chromium.googlesource.com/chromiumos/third_party/sis-updater
-[submodule "chromiumos/third_party/sound-open-firmware"]
-	branch = refs/heads/master
-	path = src/third_party/sound-open-firmware
-	url = https://chromium.googlesource.com/chromiumos/third_party/sound-open-firmware
 [submodule "chromiumos/third_party/svunit"]
 	branch = refs/heads/chromeos
 	path = src/third_party/svunit
@@ -1108,6 +1103,7 @@
 	path = bazel_deps/bazel-central-registry
 	url = https://chromium.googlesource.com/external/github.com/bazelbuild/bazel-central-registry
 [submodule "external/github.com/google/googletest"]
+	ref = refs/tags/v1.15.2
 	path = src/third_party/googletest
 	url = https://chromium.googlesource.com/external/github.com/google/googletest
 [submodule "external/github.com/google/gtest-parallel"]
