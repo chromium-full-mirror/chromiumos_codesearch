@@ -1103,7 +1103,7 @@
 	path = bazel_deps/bazel-central-registry
 	url = https://chromium.googlesource.com/external/github.com/bazelbuild/bazel-central-registry
 [submodule "external/github.com/google/googletest"]
-	ref = refs/tags/v1.15.2
+	ref = refs/tags/v1.16.0
 	path = src/third_party/googletest
 	url = https://chromium.googlesource.com/external/github.com/google/googletest
 [submodule "external/github.com/google/gtest-parallel"]
