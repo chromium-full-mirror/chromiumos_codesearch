@@ -21,13 +21,9 @@
 	branch = refs/heads/master
 	path = src/aosp/frameworks/native
 	url = https://chromium.googlesource.com/aosp/platform/frameworks/native
-[submodule "aosp/platform/frameworks/proto_logging/src/aosp/frameworks/proto_logging"]
+[submodule "aosp/platform/frameworks/proto_logging"]
 	branch = refs/heads/master
-	path = src/aosp/frameworks/proto_logging
-	url = https://chromium.googlesource.com/aosp/platform/frameworks/proto_logging
-[submodule "aosp/platform/frameworks/proto_logging/src/aosp/frameworks/proto_logging_upstream"]
-	branch = refs/heads/upstream/main
-	path = src/aosp/frameworks/proto_logging_upstream
+	path = src/aosp/frameworks/proto_logging/local
 	url = https://chromium.googlesource.com/aosp/platform/frameworks/proto_logging
 [submodule "aosp/platform/hardware/interfaces/neuralnetworks"]
 	branch = refs/heads/master
@@ -37,13 +33,9 @@
 	branch = refs/heads/main
 	path = src/aosp/hardware/nxp/uwb
 	url = https://chromium.googlesource.com/aosp/platform/hardware/nxp/uwb
-[submodule "aosp/platform/packages/modules/Bluetooth/src/aosp/packages/modules/Bluetooth/local"]
+[submodule "aosp/platform/packages/modules/Bluetooth"]
 	branch = refs/heads/main
 	path = src/aosp/packages/modules/Bluetooth/local
-	url = https://chromium.googlesource.com/aosp/platform/packages/modules/Bluetooth
-[submodule "aosp/platform/packages/modules/Bluetooth/src/aosp/packages/modules/Bluetooth/upstream"]
-	branch = refs/heads/upstream/main
-	path = src/aosp/packages/modules/Bluetooth/upstream
 	url = https://chromium.googlesource.com/aosp/platform/packages/modules/Bluetooth
 [submodule "aosp/platform/system/core/base"]
 	branch = refs/heads/master
@@ -1078,6 +1070,10 @@
 	branch = refs/heads/chromeos-main
 	path = src/third_party/zephyr/cmsis
 	url = https://chromium.googlesource.com/chromiumos/third_party/zephyr/cmsis
+[submodule "chromiumos/third_party/zephyr/cmsis_6"]
+	branch = refs/heads/chromeos-main
+	path = src/third_party/zephyr/cmsis_6
+	url = https://chromium.googlesource.com/chromiumos/third_party/zephyr/cmsis_6
 [submodule "chromiumos/third_party/zephyr/hal_intel"]
 	branch = refs/heads/main
 	path = src/third_party/zephyr/hal_intel_public
