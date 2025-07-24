@@ -1122,6 +1122,10 @@
 [submodule "external/gitlab.com/libeigen/eigen"]
 	path = src/third_party/eigen3
 	url = https://chromium.googlesource.com/external/gitlab.com/libeigen/eigen
+[submodule "external/gob/android/platform/system/chre"]
+	branch = refs/heads/main
+	path = src/third_party/android/platform/system/chre
+	url = https://chromium.googlesource.com/external/gob/android/platform/system/chre
 [submodule "external/gob/boringssl/boringssl"]
 	path = src/third_party/boringssl
 	url = https://chromium.googlesource.com/external/gob/boringssl/boringssl
