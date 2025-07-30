@@ -810,6 +810,10 @@
 	branch = refs/heads/mtkisp7
 	path = src/third_party/libcamera/mtkisp7
 	url = https://chromium.googlesource.com/chromiumos/third_party/libcamera
+[submodule "chromiumos/third_party/libcamera/src/third_party/libcamera/reven"]
+	branch = refs/heads/reven
+	path = src/third_party/libcamera/reven
+	url = https://chromium.googlesource.com/chromiumos/third_party/libcamera
 [submodule "chromiumos/third_party/libcamera/src/third_party/libcamera/upstream"]
 	branch = refs/heads/master
 	path = src/third_party/libcamera/upstream
