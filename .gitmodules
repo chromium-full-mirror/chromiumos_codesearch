@@ -1109,6 +1109,9 @@
 [submodule "external/github.com/google/gtest-parallel"]
 	path = src/third_party/gtest-parallel
 	url = https://chromium.googlesource.com/external/github.com/google/gtest-parallel
+[submodule "external/github.com/google/perfetto"]
+	path = src/third_party/perfetto
+	url = https://chromium.googlesource.com/external/github.com/google/perfetto
 [submodule "external/github.com/llvm/llvm-project"]
 	branch = refs/heads/chromeos/llvm-r563880-1
 	path = src/third_party/llvm-project
