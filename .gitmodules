@@ -1066,6 +1066,10 @@
 	branch = refs/heads/firmware-fpmcu-bloonchipper-release
 	path = src/platform/release-firmware/zephyr-bloonchipper
 	url = https://chromium.googlesource.com/chromiumos/third_party/zephyr
+[submodule "chromiumos/third_party/zephyr/src/platform/release-firmware/zephyr-helipilot"]
+	branch = refs/heads/firmware-fpmcu-helipilot-release
+	path = src/platform/release-firmware/zephyr-helipilot
+	url = https://chromium.googlesource.com/chromiumos/third_party/zephyr
 [submodule "chromiumos/third_party/zephyr/src/third_party/zephyr/main"]
 	branch = refs/heads/main
 	path = src/third_party/zephyr/main
