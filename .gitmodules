@@ -703,7 +703,7 @@
 	path = src/third_party/flashrom
 	url = https://chromium.googlesource.com/chromiumos/third_party/flashrom
 [submodule "chromiumos/third_party/fwupd"]
-	branch = refs/heads/fwupd-2.0.10
+	branch = refs/heads/fwupd-2.0.13
 	path = src/third_party/fwupd
 	url = https://chromium.googlesource.com/chromiumos/third_party/fwupd
 [submodule "chromiumos/third_party/gmmlib"]
@@ -1074,6 +1074,10 @@
 	branch = refs/heads/firmware-fpmcu-bloonchipper-release
 	path = src/platform/release-firmware/zephyr-bloonchipper
 	url = https://chromium.googlesource.com/chromiumos/third_party/zephyr
+[submodule "chromiumos/third_party/zephyr/src/platform/release-firmware/zephyr-helipilot"]
+	branch = refs/heads/firmware-fpmcu-helipilot-release
+	path = src/platform/release-firmware/zephyr-helipilot
+	url = https://chromium.googlesource.com/chromiumos/third_party/zephyr
 [submodule "chromiumos/third_party/zephyr/src/third_party/zephyr/main"]
 	branch = refs/heads/main
 	path = src/third_party/zephyr/main
@@ -1117,6 +1121,9 @@
 [submodule "external/github.com/google/gtest-parallel"]
 	path = src/third_party/gtest-parallel
 	url = https://chromium.googlesource.com/external/github.com/google/gtest-parallel
+[submodule "external/github.com/google/perfetto"]
+	path = src/third_party/perfetto
+	url = https://chromium.googlesource.com/external/github.com/google/perfetto
 [submodule "external/github.com/llvm/llvm-project"]
 	path = src/third_party/llvm-project
 	url = https://chromium.googlesource.com/external/github.com/llvm/llvm-project
