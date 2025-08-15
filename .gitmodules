@@ -616,6 +616,10 @@
 	branch = refs/heads/chromeos-5.54
 	path = src/third_party/bluez/next
 	url = https://chromium.googlesource.com/chromiumos/third_party/bluez
+[submodule "chromiumos/third_party/canon-sane-backend"]
+	branch = refs/heads/main
+	path = src/third_party/canon-sane-backend
+	url = https://chromium.googlesource.com/chromiumos/third_party/canon-sane-backend
 [submodule "chromiumos/third_party/cbootimage"]
 	branch = refs/heads/master
 	path = src/third_party/cbootimage
