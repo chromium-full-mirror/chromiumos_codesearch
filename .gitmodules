@@ -325,6 +325,10 @@
 	branch = refs/heads/cr50_stab
 	path = src/platform/cr50
 	url = https://chromium.googlesource.com/chromiumos/platform/ec
+[submodule "chromiumos/platform/ec/src/platform/ec-legacy"]
+	branch = refs/heads/ec-legacy
+	path = src/platform/ec-legacy
+	url = https://chromium.googlesource.com/chromiumos/platform/ec
 [submodule "chromiumos/platform/ec/src/platform/ec"]
 	branch = refs/heads/main
 	path = src/platform/ec
