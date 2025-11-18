@@ -1107,6 +1107,10 @@
 	branch = refs/heads/main
 	path = src/third_party/zephyr/picolibc
 	url = https://chromium.googlesource.com/chromiumos/third_party/zephyr/picolibc
+[submodule "chromiumos/third_party/zephyrproject"]
+	branch = refs/heads/main
+	path = src/third_party/zephyrproject
+	url = https://chromium.googlesource.com/chromiumos/third_party/zephyrproject
 [submodule "copybot"]
 	branch = refs/heads/main
 	path = infra/copybot
