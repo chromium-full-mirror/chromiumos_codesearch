@@ -1130,7 +1130,7 @@
 	path = src/third_party/perfetto
 	url = https://chromium.googlesource.com/external/github.com/google/perfetto
 [submodule "external/github.com/llvm/llvm-project"]
-	branch = refs/heads/chromeos/llvm-r563880-1
+	branch = refs/heads/chromeos/llvm-r574158-1
 	path = src/third_party/llvm-project
 	url = https://chromium.googlesource.com/external/github.com/llvm/llvm-project
 [submodule "external/github.com/rostedt/ureadahead"]
