@@ -417,6 +417,10 @@
 	branch = refs/heads/main
 	path = src/platform/hwtools/diagnoseme
 	url = https://chromium.googlesource.com/chromiumos/platform/hwtools/diagnoseme
+[submodule "chromiumos/platform/hwtools/maui"]
+	branch = refs/heads/main
+	path = src/platform/hwtools/maui
+	url = https://chromium.googlesource.com/chromiumos/platform/hwtools/maui
 [submodule "chromiumos/platform/initramfs"]
 	branch = refs/heads/main
 	path = src/platform/initramfs
