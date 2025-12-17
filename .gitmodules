@@ -1075,13 +1075,13 @@
 	branch = refs/heads/main
 	path = src/third_party/webrtc-apm
 	url = https://chromium.googlesource.com/chromiumos/third_party/webrtc-apm
-[submodule "chromiumos/third_party/zephyr/src/platform/release-firmware/fpmcu-bloonchipper/zephyr-bloonchipper"]
+[submodule "chromiumos/third_party/zephyr/src/platform/release-firmware/fpmcu-bloonchipper/zephyr"]
 	branch = refs/heads/firmware-fpmcu-bloonchipper-release
-	path = src/platform/release-firmware/fpmcu-bloonchipper/zephyr-bloonchipper
+	path = src/platform/release-firmware/fpmcu-bloonchipper/zephyr
 	url = https://chromium.googlesource.com/chromiumos/third_party/zephyr
-[submodule "chromiumos/third_party/zephyr/src/platform/release-firmware/fpmcu-helipilot/zephyr-helipilot"]
+[submodule "chromiumos/third_party/zephyr/src/platform/release-firmware/fpmcu-helipilot/zephyr"]
 	branch = refs/heads/firmware-fpmcu-helipilot-release
-	path = src/platform/release-firmware/fpmcu-helipilot/zephyr-helipilot
+	path = src/platform/release-firmware/fpmcu-helipilot/zephyr
 	url = https://chromium.googlesource.com/chromiumos/third_party/zephyr
 [submodule "chromiumos/third_party/zephyr/src/third_party/zephyr/main"]
 	branch = refs/heads/main
