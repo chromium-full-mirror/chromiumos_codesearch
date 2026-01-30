@@ -1071,43 +1071,15 @@
 	branch = refs/heads/main
 	path = src/third_party/webrtc-apm
 	url = https://chromium.googlesource.com/chromiumos/third_party/webrtc-apm
-[submodule "chromiumos/third_party/zephyr/src/platform/release-firmware/fpmcu-bloonchipper/zephyr"]
+[submodule "chromiumos/third_party/zephyrproject/src/platform/release-firmware/fpmcu-bloonchipper/zephyrproject"]
 	branch = refs/heads/firmware-fpmcu-bloonchipper-release
-	path = src/platform/release-firmware/fpmcu-bloonchipper/zephyr
-	url = https://chromium.googlesource.com/chromiumos/third_party/zephyr
-[submodule "chromiumos/third_party/zephyr/src/platform/release-firmware/fpmcu-helipilot/zephyr"]
+	path = src/platform/release-firmware/fpmcu-bloonchipper/zephyrproject
+	url = https://chromium.googlesource.com/chromiumos/third_party/zephyrproject
+[submodule "chromiumos/third_party/zephyrproject/src/platform/release-firmware/fpmcu-helipilot/zephyrproject"]
 	branch = refs/heads/firmware-fpmcu-helipilot-release
-	path = src/platform/release-firmware/fpmcu-helipilot/zephyr
-	url = https://chromium.googlesource.com/chromiumos/third_party/zephyr
-[submodule "chromiumos/third_party/zephyr/src/third_party/zephyr/main"]
-	branch = refs/heads/main
-	path = src/third_party/zephyr/main
-	url = https://chromium.googlesource.com/chromiumos/third_party/zephyr
-[submodule "chromiumos/third_party/zephyr/cmsis"]
-	branch = refs/heads/chromeos-main
-	path = src/third_party/zephyr/cmsis
-	url = https://chromium.googlesource.com/chromiumos/third_party/zephyr/cmsis
-[submodule "chromiumos/third_party/zephyr/cmsis_6"]
-	branch = refs/heads/chromeos-main
-	path = src/third_party/zephyr/cmsis_6
-	url = https://chromium.googlesource.com/chromiumos/third_party/zephyr/cmsis_6
-[submodule "chromiumos/third_party/zephyr/hal_intel"]
-	branch = refs/heads/main
-	path = src/third_party/zephyr/hal_intel_public
-	url = https://chromium.googlesource.com/chromiumos/third_party/zephyr/hal_intel
-[submodule "chromiumos/third_party/zephyr/hal_stm32"]
-	branch = refs/heads/chromeos-main
-	path = src/third_party/zephyr/hal_stm32
-	url = https://chromium.googlesource.com/chromiumos/third_party/zephyr/hal_stm32
-[submodule "chromiumos/third_party/zephyr/nanopb"]
-	branch = refs/heads/main
-	path = src/third_party/zephyr/nanopb
-	url = https://chromium.googlesource.com/chromiumos/third_party/zephyr/nanopb
-[submodule "chromiumos/third_party/zephyr/picolibc"]
-	branch = refs/heads/main
-	path = src/third_party/zephyr/picolibc
-	url = https://chromium.googlesource.com/chromiumos/third_party/zephyr/picolibc
-[submodule "chromiumos/third_party/zephyrproject"]
+	path = src/platform/release-firmware/fpmcu-helipilot/zephyrproject
+	url = https://chromium.googlesource.com/chromiumos/third_party/zephyrproject
+[submodule "chromiumos/third_party/zephyrproject/src/third_party/zephyrproject"]
 	branch = refs/heads/main
 	path = src/third_party/zephyrproject
 	url = https://chromium.googlesource.com/chromiumos/third_party/zephyrproject
