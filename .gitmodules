@@ -173,10 +173,6 @@
 	branch = refs/heads/main
 	path = infra/go
 	url = https://chromium.googlesource.com/chromiumos/infra/go
-[submodule "chromiumos/infra/ide"]
-	branch = refs/heads/main
-	path = infra/ide
-	url = https://chromium.googlesource.com/chromiumos/infra/ide
 [submodule "chromiumos/infra/proto/infra/proto"]
 	branch = refs/heads/main
 	path = infra/proto
