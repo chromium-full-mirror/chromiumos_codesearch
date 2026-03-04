@@ -341,6 +341,14 @@
 	branch = refs/heads/firmware-fpmcu-bloonchipper-release
 	path = src/platform/release-firmware/fpmcu-bloonchipper/ec
 	url = https://chromium.googlesource.com/chromiumos/platform/ec
+[submodule "chromiumos/platform/ec/src/platform/release-firmware/fpmcu-chobienia/ec"]
+	branch = refs/heads/firmware-fpmcu-chobienia-release
+	path = src/platform/release-firmware/fpmcu-chobienia/ec
+	url = https://chromium.googlesource.com/chromiumos/platform/ec
+[submodule "chromiumos/platform/ec/src/platform/release-firmware/fpmcu-chudow/ec"]
+	branch = refs/heads/firmware-fpmcu-chudow-release
+	path = src/platform/release-firmware/fpmcu-chudow/ec
+	url = https://chromium.googlesource.com/chromiumos/platform/ec
 [submodule "chromiumos/platform/ec/src/platform/release-firmware/fpmcu-dartmonkey/ec"]
 	branch = refs/heads/firmware-fpmcu-dartmonkey-release
 	path = src/platform/release-firmware/fpmcu-dartmonkey/ec
@@ -348,6 +356,18 @@
 [submodule "chromiumos/platform/ec/src/platform/release-firmware/fpmcu-helipilot/ec"]
 	branch = refs/heads/firmware-fpmcu-helipilot-release
 	path = src/platform/release-firmware/fpmcu-helipilot/ec
+	url = https://chromium.googlesource.com/chromiumos/platform/ec
+[submodule "chromiumos/platform/ec/src/platform/release-firmware/fpmcu-sanok/ec"]
+	branch = refs/heads/firmware-fpmcu-sanok-release
+	path = src/platform/release-firmware/fpmcu-sanok/ec
+	url = https://chromium.googlesource.com/chromiumos/platform/ec
+[submodule "chromiumos/platform/ec/src/platform/release-firmware/fpmcu-srebrna/ec"]
+	branch = refs/heads/firmware-fpmcu-srebrna-release
+	path = src/platform/release-firmware/fpmcu-srebrna/ec
+	url = https://chromium.googlesource.com/chromiumos/platform/ec
+[submodule "chromiumos/platform/ec/src/platform/release-firmware/fpmcu-stobnica/ec"]
+	branch = refs/heads/firmware-fpmcu-stobnica-release
+	path = src/platform/release-firmware/fpmcu-stobnica/ec
 	url = https://chromium.googlesource.com/chromiumos/platform/ec
 [submodule "chromiumos/platform/ec-aic-tester"]
 	branch = refs/heads/main
@@ -1071,9 +1091,29 @@
 	branch = refs/heads/firmware-fpmcu-bloonchipper-release
 	path = src/platform/release-firmware/fpmcu-bloonchipper/zephyrproject
 	url = https://chromium.googlesource.com/chromiumos/third_party/zephyrproject
+[submodule "chromiumos/third_party/zephyrproject/src/platform/release-firmware/fpmcu-chobienia/zephyrproject"]
+	branch = refs/heads/firmware-fpmcu-chobienia-release
+	path = src/platform/release-firmware/fpmcu-chobienia/zephyrproject
+	url = https://chromium.googlesource.com/chromiumos/third_party/zephyrproject
+[submodule "chromiumos/third_party/zephyrproject/src/platform/release-firmware/fpmcu-chudow/zephyrproject"]
+	branch = refs/heads/firmware-fpmcu-chudow-release
+	path = src/platform/release-firmware/fpmcu-chudow/zephyrproject
+	url = https://chromium.googlesource.com/chromiumos/third_party/zephyrproject
 [submodule "chromiumos/third_party/zephyrproject/src/platform/release-firmware/fpmcu-helipilot/zephyrproject"]
 	branch = refs/heads/firmware-fpmcu-helipilot-release
 	path = src/platform/release-firmware/fpmcu-helipilot/zephyrproject
+	url = https://chromium.googlesource.com/chromiumos/third_party/zephyrproject
+[submodule "chromiumos/third_party/zephyrproject/src/platform/release-firmware/fpmcu-sanok/zephyrproject"]
+	branch = refs/heads/firmware-fpmcu-sanok-release
+	path = src/platform/release-firmware/fpmcu-sanok/zephyrproject
+	url = https://chromium.googlesource.com/chromiumos/third_party/zephyrproject
+[submodule "chromiumos/third_party/zephyrproject/src/platform/release-firmware/fpmcu-srebrna/zephyrproject"]
+	branch = refs/heads/firmware-fpmcu-srebrna-release
+	path = src/platform/release-firmware/fpmcu-srebrna/zephyrproject
+	url = https://chromium.googlesource.com/chromiumos/third_party/zephyrproject
+[submodule "chromiumos/third_party/zephyrproject/src/platform/release-firmware/fpmcu-stobnica/zephyrproject"]
+	branch = refs/heads/firmware-fpmcu-stobnica-release
+	path = src/platform/release-firmware/fpmcu-stobnica/zephyrproject
 	url = https://chromium.googlesource.com/chromiumos/third_party/zephyrproject
 [submodule "chromiumos/third_party/zephyrproject/src/third_party/zephyrproject"]
 	branch = refs/heads/main
