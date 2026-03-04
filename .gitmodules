@@ -357,6 +357,10 @@
 	branch = refs/heads/firmware-fpmcu-helipilot-release
 	path = src/platform/release-firmware/fpmcu-helipilot/ec
 	url = https://chromium.googlesource.com/chromiumos/platform/ec
+[submodule "chromiumos/platform/ec/src/platform/release-firmware/fpmcu-niedzica/ec"]
+	branch = refs/heads/firmware-fpmcu-niedzica-release
+	path = src/platform/release-firmware/fpmcu-niedzica/ec
+	url = https://chromium.googlesource.com/chromiumos/platform/ec
 [submodule "chromiumos/platform/ec/src/platform/release-firmware/fpmcu-sanok/ec"]
 	branch = refs/heads/firmware-fpmcu-sanok-release
 	path = src/platform/release-firmware/fpmcu-sanok/ec
@@ -1102,6 +1106,10 @@
 [submodule "chromiumos/third_party/zephyrproject/src/platform/release-firmware/fpmcu-helipilot/zephyrproject"]
 	branch = refs/heads/firmware-fpmcu-helipilot-release
 	path = src/platform/release-firmware/fpmcu-helipilot/zephyrproject
+	url = https://chromium.googlesource.com/chromiumos/third_party/zephyrproject
+[submodule "chromiumos/third_party/zephyrproject/src/platform/release-firmware/fpmcu-niedzica/zephyrproject"]
+	branch = refs/heads/firmware-fpmcu-niedzica-release
+	path = src/platform/release-firmware/fpmcu-niedzica/zephyrproject
 	url = https://chromium.googlesource.com/chromiumos/third_party/zephyrproject
 [submodule "chromiumos/third_party/zephyrproject/src/platform/release-firmware/fpmcu-sanok/zephyrproject"]
 	branch = refs/heads/firmware-fpmcu-sanok-release
