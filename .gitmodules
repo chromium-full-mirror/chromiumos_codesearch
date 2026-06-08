@@ -393,6 +393,10 @@
 	branch = refs/heads/main
 	path = src/platform/firmware
 	url = https://chromium.googlesource.com/chromiumos/platform/firmware
+[submodule "chromiumos/platform/firmweaver"]
+	branch = refs/heads/main
+	path = src/platform/firmweaver
+	url = https://chromium.googlesource.com/chromiumos/platform/firmweaver
 [submodule "chromiumos/platform/frecon"]
 	branch = refs/heads/main
 	path = src/platform/frecon
