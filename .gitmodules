@@ -649,10 +649,6 @@
 	branch = refs/heads/chromeos-5.54
 	path = src/third_party/bluez/next
 	url = https://chromium.googlesource.com/chromiumos/third_party/bluez
-[submodule "chromiumos/third_party/brscan5-public"]
-	branch = refs/heads/main
-	path = src/third_party/brscan5-public
-	url = https://chromium.googlesource.com/chromiumos/third_party/brscan5-public
 [submodule "chromiumos/third_party/canon-sane-backend"]
 	branch = refs/heads/main
 	path = src/third_party/canon-sane-backend
